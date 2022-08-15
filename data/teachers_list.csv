@@ -1,0 +1,778 @@
+last_name,first_name,county,district,school,primary_job,fte,salary,certificate,subcategory,teaching_route,highly_qualified,experience_district,experience_nj,experience_total
+King,Gina,Bergen,Bergenfield Boro,Lincoln Elementary School,Reading Specialist,1,79685,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,11,11,11
+Fallon,Kevin B,Morris,Montville Twp,Montville Township High School,Elementary Teacher In Secondary Setting Apa Only Subcategory Identifier S\, H\, Or V,1,58774,Provisional,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Slack,Erin M,Union,Linden City,Myles J. Mcmanus Middle School,Social Studies Grades 5 -8,1,51165,Provisional,General ed,Traditional,Highly qualified. National Board Certified.,0,0,0
+Wittenwiler,Donald,Charter,Chartertech High School For The Performing Arts,Chartertech High School For The Performing Arts,Music Instrumental,1,56410,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Kelly,Kristine,Cape May,Lower Twp,Maud Abrams School,Health & Physical Education,0.8,93867,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,30,30,30
+Natoli,Jessica,Essex,Belleville Town,Belleville Middle School,Science Grades 5  -8,1,46214,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,3,3,3
+Dotro,Marisa,Hunterdon,Readington Twp,Three Bridges School,Preschool,1,74475,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,9,14,14
+Martin,Violet Y,Camden,Gloucester Twp,District Office,Director Special Ed,1,124133,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,4,4,4
+Lloyd,John P,Burlington,Moorestown Twp,Moorestown High School,English Non-elementary,1,67968,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Redler,Kenneth Mark,Middlesex,New Brunswick City,New Brunswick High School,Assistant Principal Middle School,1,127643,Provisional,Admin or supervisor,Traditional,Doesn't need to be highly qualified,10,10,10
+Mitchell,Gailen H,Burlington,Mount Laurel Twp,Springville Elementary School,Elementary School Principal,1,122351,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,9,24,24
+Bender,Katharine L,Cape May,Upper Twp,Upper Township Elementary School,Elementary Kindergraten-8 Grade,1,68023,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,15
+Warren,Allison M,Bergen,Elmwood Park,Memorial Middle School,Mathematics Grades 5 - 8,1,46360,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,4,4,4
+Geaney,Melissa L,Sussex,Hardyston Twp,Hardyston Township Elementary School,Kindergarten,1,58067,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Donnelly,Kelly,Middlesex,Sayreville Boro,Sayreville War Memorial High School,Math Non-elementary,1,45853,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,2,2,2
+Saraceno,Sara J,Ocean,Manchester Twp,Manchester Township Elementary School,Elementary School Teacher K-5,1,54546,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Clausen,Craig,Morris,Mendham Twp,Mendham Township Middle School,Science Grades 5  -8,1,68170,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Nulty,Charles S,Ocean,Stafford Twp,Stafford Intermediate School,Music Instrumental,1,73445,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Spicer,Marlaina,Gloucester,Swedesboro-woolwich,General Charles G. Harker School,Elementary School Teacher K-5,1,49911,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,2,2,2
+Uchrin,Jessica,Middlesex,Woodbridge Twp,Fords Middle School,Resource Program In-class,1,60573,CEAS,Special ed,Traditional,Highly qualified. Has 30 credits in content area.,5,5,5
+Florio,Sarah,Morris,Rockaway Twp,District Office,School Psychologist,1,61233,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Ortiz,Zenaida,Camden,Camden City,Alfred Cramer College Preparatory Lab School,Elementary Kindergraten-8 Grade,1,65203,Standard certificate,Bilingual,Alternate,Highly qualified. Passed the Praxis/NTE,22,22,22
+Rosado,Neisha L,Hudson,Jersey City,James J Ferris High School,English As A 2nd Language,1,57884,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Campana,Sandy E,Atlantic,Atlantic City,Richmond Avenue School,Elementary School Teacher K-5,1,58811,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Bryant,Victoria L,Burlington,Bordentown Regional,Peter Muschal Elementary,Resource Program In-class,1,58595,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Warchol,Michele A,Ocean,Berkeley Twp,Bayville Elementary School,Elementary School Teacher K-5,1,48738,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Veltre,Keith D,Essex,Newark City,District Office,Administrative Assistant To District Superintendent,1,110000,CE,Admin or supervisor,Traditional,Doesn't need to be highly qualified,12,12,12
+Sardella,Diana,Hudson,North Bergen Twp,Mckinley Elementary School,Elementary Kindergraten-8 Grade,1,71191,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Stagliano,Kristina,Burlington,Palmyra Boro,Charles Street School,Elementary Kindergraten-8 Grade,1,62806,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,15
+Estfanous,Nermeen,Passaic,Passaic City,Vincent Capuana School # 15,Preschool,1,57043,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,10,10,10
+Golub,Cheri,Monmouth,Millstone Twp,District Office,Learning Disabilities Teacher Consultant,1,77065,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,17,17
+Hau,Tiffany,Morris,Sch Dist Of The Chathams,Southern Boulevard School,Resource Program In-class,1,56080,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,1,1
+Longini,Bernice S,Cumberland,Vineland City,Pauline J. Petway Elementary School,Learning Disabilities Teacher Consultant,1,85094,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,23,23,23
+Castillo,Raul,Mercer,Trenton City,District Office,School Social Worker,1,106797,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,20,20,21
+Rayano,Allison Marie,Union,Elizabeth City,John E. Dwyer Technology Academy,Math Non-elementary,1,64294,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Blauvelt,Christa A,Ocean,Point Pleasant Boro,Nellie F. Bennett Elementary School,Resource Program In-class,1,68611,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,16,16,16
+Elzahaby,Amy,Union,Union Twp,Washington,English As A 2nd Language,1,65806,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,2,6,6
+Willson,Julie,Atlantic,Egg Harbor Twp,H. Russel Swift Elementary School,Kindergarten,1,56600,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Brining,Danielle R,Burlington,Lenape Regional,Lenape High School,Resource Program Pull-out Support,1,100369,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,31,31,31
+Johnson,Lorraine R,Ocean,Berkeley Twp,Bayville Elementary School,Elementary Kindergraten-8 Grade,1,62276,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Smith,Christine,Middlesex,East Brunswick Twp,Central Elementary School,Elementary Kindergraten-8 Grade,1,86208,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,20,20
+Rivas,Gina A,Hudson,Guttenberg Town,Anna L. Klein,Lang Arts/literacy Grades 5 - 8,1,54031,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Wagner,Christopher M,Monmouth,Holmdel Twp,Indian Hill School,Health & Physical Education,1,97450,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,19,19,19
+Shaw,Rachel E,Cumberland,Vineland City,Veterans Memorial Middle,School Social Worker,1,64319,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,13,13,13
+Gennarelli,Jesse,Bergen,Ridgefield Boro,Slocum Skewes School,Elementary Kindergraten-8 Grade,1,86470,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,14,15,15
+Silverman,Melissa B,Bergen,Glen Rock Boro,District Office,School Psychologist,1,88891,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,6,13,14
+Giglio,Tammi,Warren,Greenwich Twp,Stewartsville Middle School,Resource Program In-class,1,65975,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Kaczorowski M,Jillian,Monmouth,Colts Neck Twp,Conover Road Elementary School,Resource Program Pull-out Support,1,52986,Provisional,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Peck,Elizabeth C,Hunterdon,Hunterdon Central Reg,Hunterdon Central Regional High School District,Science Biological,1,60525,Provisional,General ed,Alternate,Highly qualified. National Board Certified.,0,0,0
+Carter,Greg S,Ocean,Lacey Twp,Cedar Creek Elementary School,Elementary Kindergraten-8 Grade,1,61574,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Martens,Jeffrey P,Morris,Parsippany-troy Hills Twp,Northvail Elementary School,Elementary School Principal,1,138121,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,22,22,22
+Gulick,Debra,Middlesex,East Brunswick Twp,District Office,Director Curriculum & Instruction,1,148720,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,21,28,28
+Garrison,Gina,Gloucester,Woodbury City,Evergreen Avenue Elementary School,Elementary School Teacher K-5,1,49611,Provisional,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Ingrassia,Aurora M,Somerset,Manville Boro,Weston Elementary School,Elementary School Teacher K-5,1,50947,CE,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Reading,Janice L,Hudson,Hoboken City,Wallace Elementary School,Preschool,1,51546,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,6
+Macri,Julie,Bergen,Lodi Borough,District Office,Music Instrumental,1,100686,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,30,30,30
+Karski,Melanie Patrice,Union,Elizabeth City,Louverture-lafayette School No. 6,Elementary School Teacher K-5,1,59994,CEAS,General ed,Traditional,Highly qualified. Has 30 credits in content area.,0,0,0
+Czekalski,Stephen J,Gloucester,West Deptford Twp,West Deptford High School,English Non-elementary,1,82931,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,17,22,22
+Martin,Jennifer L,Burlington,Lenape Regional,Cherokee High School,Math Non-elementary,1,70421,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,12,14,14
+Pavesi,Joseph,Atlantic,Hammonton Town,Warren E. Sooy Jr. Elementary School,Elementary School Teacher K-5,1,52100,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Allen,Vivine,Essex,Newark City,John F Kennedy School,Resource Program In-class,1,56244,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,9,9,9
+Mai,Diana,Warren,Frelinghuysen Twp,Frelinghuysen Township Elementary School,Elementary Kindergraten-8 Grade,1,65592,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,14,14
+Rossi,Kathleen,Passaic,Clifton City,Clifton High School,Cooperative  Education Coordinator (non Hazardous Occupations),1,86468,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,29,31,31
+Lombardi,Alison Marie,Ocean,Plumsted Twp,New Egypt Primary School,Elementary Kindergraten-8 Grade,1,57683,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,8,11
+Green,Nora D,Ocean,Barnegat Twp,Joseph T. Donahue Elementary School,Resource Program In-class,1,61739,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,10,10,10
+Cardoza,Dustin Donald,Morris,Jefferson Twp,Jefferson Township Middle School,Elementary Teacher In Secondary Setting Apa Only Subcategory Identifier S\, H\, Or V,1,72787,Standard certificate,Special ed,Traditional,Highly qualified. Has 30 credits in content area.,12,12,12
+Donde,Kristin Rose,Passaic,Clifton City,Clifton High School,School Social Worker,1,59050,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,3,3,3
+Stabp,James,Warren,Phillipsburg Town,Phillipsburg High School,Social Studies Non-elementary,1,92242,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,33,33,33
+Martinez,Joanna,Union,Elizabeth City,Admiral William F. Halsey Jr. Health & Public Safety Academy,Supplementary Instruction (in-class),1,80902,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,13,13,13
+Smith,Ronald,Passaic,Wayne Twp,Wayne Valley High School,Health & Physical Education,1,81000,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,20,23,23
+Winslow,Charles C,Hudson,North Bergen Twp,Robert Fulton Elementary School,Art,1,69112,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,5,6,6
+Thiele,Delacey J,Sussex,Sussex-wantage Regional,Wantage Elementary School,Physical Education,1,69220,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,10,10
+Gallo,Mark E,Hunterdon,N Hunt/voorhees Regional,North Hunterdon High School,Math Non-elementary,1,63560,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Mckinnon,Fatima,Middlesex,East Brunswick Twp,Irwin Elementary School,English As A 2nd Language,1,61815,Standard certificate,Bilingual,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Thakur,Minal,Essex,Essex Co Voc-tech,Bloomfield Tech,Science General,1,55436,CE,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Kibel,Dena M,Ocean,Toms River Regional,Walnut Street Elementary School,Learning Disabilities Teacher Consultant,1,68537,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,8,10,10
+Haberman,Barbara,Middlesex,Old Bridge Twp,Carl Sandburg Middle School,Lang Arts/literacy Grades 5 - 8,1,104091,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,18,18,18
+Zaborney,Andrew J,Middlesex,Spotswood Boro,Spotswood High School,Television Production,1,63500,Standard certificate,General ed,Alternate,Highly qualified. Has gradate or undergraduate degree in subject area.,12,13,13
+Glock,Brianne M,Ocean,Little Egg Harbor Twp,George J. Mitchell Elementary School,Elementary School Teacher K-5,1,59524,Standard certificate,Special ed,Alternate,Highly qualified. Passed the Praxis/NTE,7,7,7
+Giannelli,Aidan,Hunterdon,N Hunt/voorhees Regional,Voorhees High School,Music Comprehensive,1,77660,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,21,21
+Rapp,Devon,Burlington,Moorestown Twp,South Valley Elementary School,Elementary Kindergraten-8 Grade,1,55770,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Simon,Sandra,Hudson,Union City,Theodore Roosevelt Elementary School,Elementary Kindergraten-8 Grade,1,64730,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Fanz,Bonnie,Atlantic,Hammonton Town,Hammonton Middle School,Learning Disabilities Teacher Consultant,1,87078,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,9,25,26
+Parker,Kiyoe K,Middlesex,Middlesex Co Reg Ser Comm,Bright Beginnings Learning Center,Elementary School Teacher K-5,1,53488,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,16,16,16
+Engel,Michael,Camden,Haddon Twp,William G. Rohrer Middle School,Mathematics Grades 5 - 8,1,48855,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,10
+Sevila,Adriana,Union,Elizabeth City,Alexander Hamilton Preparatory Academy,Art,1,64294,CEAS,General ed,Traditional,Highly qualified. Has 30 credits in content area.,1,1,1
+Salvatoriello,Kristina,Essex,City Of Orange Twp,Orange Preparatory Academy,Math Non-elementary,1,50785,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Kukuruda,Sarah,Morris,Dover Town,Dover Middle School,Mathematics Grades 5 - 8,1,57201,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Derose,Mario,Cumberland,Bridgeton City,Bridgeton High School,Science Physics,1,69258,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,9,13
+Litz,Ronald J,Union,Scotch Plains-fanwood Reg,Park Middle School,Social Studies Grades 5 -8,1,57914,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Garcia-villen,Maria Trinidad,Charter,Hoboken Dual Language Charter School,Hoboken Dual Language Charter School,Spanish Grades 5 - 8,1,54000,Standard certificate,Bilingual,Alternate,Highly qualified. National Board Certified.,6,6,6
+Kelly,Joyce,Gloucester,Mantua Twp,Centre City Elementary School,Elementary Kindergraten-8 Grade,1,65998,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Malast,Debra A,Burlington,Mount Laurel Twp,T. E. Harrington Middle School,Lang Arts/literacy Grades 5 - 8,1,97268,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,39,39,39
+Rojas,Jessica,Hudson,Union City,Robert Waters Elementary School,Elementary Kindergraten-8 Grade,1,53830,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Hackett Jr,Patrick E,Union,Elizabeth City,John Marshal School No. 20,Health & Physical Education,1,81766,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,17,17,17
+Cuza-murray,Aleina,Union,Elizabeth City,Nicholas Murray Butler School No. 23,School Social Worker,1,99565,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,20,20,20
+Nixon,Robert,Union,Berkeley Heights Twp,Governor Livingston High School,High School Principal,1,152708,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,3,19,19
+Onorevole,Gina,Essex,Newark City,Elliott Street Elementary School,Elementary Kindergraten-8 Grade,1,71000,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,15,17,17
+Greenberg,Michelle,Ocean,Lakewood Twp,Clifton Ave Grade School,Elementary School Teacher K-5,1,49441,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,2,2,2
+Salmons,Lori,Burlington,Burlington Co Spec Serv,Westampton Campus,Elementary Kindergraten-8 Grade,1,99420,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,25,25,25
+Keseling,Sharon,Essex,Nutley Town,Spring Garden School,School Nurse,1,73000,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,7,7,7
+Healy,Patricia,Union,Clark Twp,Carl H. Kumpf School,Resource Program In-class,1,105105,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,21,27,27
+Amon,Debra B,Mercer,Trenton City,Luis Munoz-rivera Ms,Social Studies Grades 5 -8,1,76240,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,11,12,12
+Rao,Francine,Monmouth,Keansburg Boro,Keansburg High School,Science Physics,1,57125,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Kushnir,Michael J,Hudson,West New York Town,West New York Middle School,Mathematics Grades 5 - 8,1,58863,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,0,0,0
+Sheffield,Emma J,Hudson,Jersey City,Academy I,Resource Program In-class,1,62158,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,1,1,1
+Parenti,Susan,Union,Union Co Ed Serv Comm,Crossroads School,Elementary School Teacher K-5,1,65155,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Mari,Svetlana I,Monmouth,Middletown Twp,Thorne Middle School,Music Comprehensive,1,76288,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,11,14,14
+Benkin,Pamela,Mercer,East Windsor Regional,Ethel Mcknight Elementary School,Elementary Kindergraten-8 Grade,1,87570,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,14,14,14
+Ingle,Jennifer C,Bergen,Wyckoff Twp,Dwight D. Eisenhower Middle School,Lang Arts/literacy Grades 5 - 8,1,57831,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,5,7,7
+Mccann,Stephanie T,Cumberland,Commercial Twp,Port Norris Middle School,Speech Correction/language Specialist,0.4,54393,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Higgins,Michelle N,Monmouth,Howell Twp,Howell Township Middle School North,Science Grades 5  -8,1,102318,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Lustig,Richard A,Bergen,Bergenfield Boro,Roy W. Brown Middle School,Physical Education,1,87705,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,21,21,21
+Johnson,Mark D,Camden,Haddon Heights Boro,Haddon Heights Jr-sr Hs,Math Non-elementary,1,67764,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+D'ambrosio,Nicole M,Ocean,Jackson Twp,Sylvia Rosenauer Elementary School,Preschool,1,55832,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,11,11
+Lagrou,Matthew N,Camden,Cherry Hill Twp,Cherry Hill High School East,Assistant Principal High School,1,120988,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,0,0,0
+Batts,Lovena C,Union,Roselle Boro,Leonard V. Moore Middle School,Basic Skills/remedial English,1,60083,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Nademus,Suzanne M,Sussex,Sparta Twp,Mohawk Avenue School,Elementary School Teacher K-5,1,97760,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,19,19
+Norton,Barbara J,Cumberland,Vineland City,John H. Winslow Elementary School,Elementary Kindergraten-8 Grade,1,77366,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Tavarez,Alexander,Hudson,West New York Town,Public School Number Five,Elementary School Teacher K-5,1,62163,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Jones,Jody-anne,Charter,North Star Academy Charter School,North Star Academy Charter School,Elementary Kindergraten-8 Grade,1,125000,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,10,15,15
+Meyer,Stefani,Somerset,Bridgewater-raritan Reg,Bridgewater-raritan Middle School,German Grades 5 - 8,1,94895,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,11,11,11
+Wilkinson,Carol,Atlantic,Egg Harbor Twp,Egg Harbor Township High School,Math Non-elementary,1,86543,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,33,35,35
+Belly,Lisa,Middlesex,Woodbridge Twp,Iselin Middle School,Social Studies Grades 5 -8,1,61801,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Murphy,Joanna,Hunterdon,Holland Twp,Holland Township Elementary School,Speech Correction/language Specialist,0.53,30423,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,4,7,7
+Stokes,Stephanie R,Bergen,Dumont Boro,Selzer Elementarymiddle School,Science Grades 5  -8,1,62775,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Grohman,Donna,Essex,South Orange-maplewood,Clinton Elementary School,Preschool,1,96312,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,19,19
+Mccarthy,Marie,Middlesex,Sayreville Boro,Sayreville Middle School,Resource Program In-class,1,51653,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Shoemaker,Janet W,Gloucester,Washington Twp,Thomas Jefferson Elementary School,Reading Specialist,1,88376,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,25,36,36
+Ercoli,Joanne,Salem,Pennsville,Valley Park Elementary School,Preschool,1,81800,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,30,33,38
+Boyle,Yvonne,Burlington,New Hanover Twp,New Hanover Township School,Lang Arts/literacy Grades 5 - 8,1,87387,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,22,29,29
+Smith-gismondi,Wendy A,Essex,Montclair Town,Bradford Elementary School,Elementary Kindergraten-8 Grade,1,68531,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,16,16
+Scovell,Laura,Sussex,Vernon Twp,Rolling Hills Primary School,Resource Program In-class,1,61835,Standard certificate,Special ed,Alternate,Highly qualified. National Board Certified.,10,10,10
+Lynch,Corinne S,Bergen,Oradell Boro,Oradell Public School,Art,1,96795,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,20,20
+Collentine,Barbara,Bergen,New Milford Boro,New Milford High School,English Non-elementary,1,74265,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,21,21,21
+Shapiro,Theresa,Burlington,Medford Twp,Chairville Elementary School,Elementary School Teacher K-5,1,68250,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,18
+Wetzel,Bradley J,Morris,West Morris Regional,West Morris Mendham High School,Drafting And Design Technology (includes Mechanical\, Architectural\, Machine Drawing\, Architecture/home Planning\, Blueprint Reading\, Industrial Arts\, I,1,63260,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,10,10
+Sinisi,Maegan N,Passaic,Little Falls Twp,Little Falls Township Public School # 3,Elementary School Teacher K-5,1,52875,CE,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Raylman,Kevin,Ocean,Toms River Regional,Toms River High School North,Assistant Principal High School,1,117690,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,19,20,20
+Johnston,Rebecca M,Burlington,Pemberton Twp,Fort Dix Elementary School,Resource Program In-class,1,52318,CEAS,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Suter,Elizabeth E,Cape May,Lower Cape May Regional,Richard M. Teitelman Middle School,Resource Program In-class,0.66,86746,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,24,24,24
+Whittinghill,Elizabeth Jane,Salem,Salem Co Special Service,District Office,Supervisor Special Education,1,102447,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,19,19,19
+Lyons,Amanda Paige,Sussex,Sparta Twp,Sparta Alpine School,Elementary School Teacher K-5,1,76425,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Driscoll,Thomas,Somerset,Somerset Co Vocational,Somerset County Vocational Technical High School,Science Chemistry,1,66794,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,1,11,11
+Bersh,John Lee,Gloucester,Monroe Twp,District Office,Supervisor Special Education,1,144845,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,30,30,44
+Leo,Paula L,Salem,Salem County Vocational,Salem County Career And Technical High School,Math Non-elementary,1,52965,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,8,8,8
+Reilly,Regina,Burlington,Medford Lakes Boro,Neeta School,School Nurse,1,57472,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Andrade Thomas,Ruth,Camden,Pennsauken Twp,Howard M Phifer Middle School,Elementary Kindergraten-8 Grade,1,83595,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,10,10,10
+Montagni,Monica,Bergen,Wyckoff Twp,Abraham Lincoln Elementary School,Remedial Math,1,97831,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Klimek,Gina C,Union,Elizabeth City,Mabel G. Homes School No. 5,Resource Program Pull-out Support,1,65205,Standard certificate,Special ed,Traditional,Highly qualified. Has 30 credits in content area.,5,5,5
+Bearse,Teresa,Ocean,Brick Twp,Veterans Memorial Middle School,Health & Physical Education,1,71370,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Beckford-smith,June,Somerset,Montgomery Twp,Montgomery High School,School Librarian\, Media Specialist Assoc.,1,98820,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,18,36,36
+Scott-motley,Donna,Hudson,Jersey City,James F. Murray School,Resource Program In-class,1,58087,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Rocha,Nicole,Middlesex,East Brunswick Twp,Chittick Elementary School,Elementary Kindergraten-8 Grade,1,64685,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Russ,Julia,Charter,University Heights Charter School,University Heights Charter School,Learning Disabilities Teacher Consultant,1,52000,CEAS,General ed,Traditional,Doesn't need to be highly qualified,0,0,0
+Gallagher,Maria,Burlington,Evesham Twp,Frances Demasi Middle School,Elementary Kindergraten-8 Grade,1,62596,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,0,10,10
+Cronin,Lynn,Gloucester,Washington Twp,Wedgwood Elementary School,Resource Program In-class,1,50205,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,3,3,3
+Huerta,Karen F,Ocean,Toms River Regional,Toms River Intermediate School North,English As A 2nd Language,1,62431,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,13,13,13
+Durante,Gregory,Monmouth,Freehold Twp,Dwight D. Eisenhower School,School Counselor,1,96802,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,14,14,14
+Shannon,Cassandra R,Somerset,Hillsborough Twp,Woods Road Elementary School,English As A 2nd Language,1,64485,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,10,10
+Ebron,Betty,Camden,Camden County Vocational,Camden County Technical School-gtc,Resource Program In-class,1,79699,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,36,38,38
+D'addario,Melinda J,Ocean,Toms River Regional,Walnut Street Elementary School,Kindergarten,1,62431,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Regn,Keith M,Camden,Winslow Twp,Winslow Township Middle School,Health & Physical Education,1,83150,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,26,26,26
+Fiduccia,Jennifer,Ocean,Lacey Twp,Mill Pond Elementary School,School Social Worker,1,61269,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,9,9,9
+Izsa,Holly,Morris,Sch Dist Of The Chathams,Southern Boulevard School,Elementary School Teacher K-5,1,97195,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,21,23,23
+Pabst,Karen,Passaic,Paterson City,Don Bosco Academy,Lang Arts/literacy Grades 5 - 8,1,100027,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,31,31,31
+Young,Susan F,Morris,Morris County Vocational,District Office,School Business Administrator,1,168759,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,6,15,15
+Bacon,Kelly D,Burlington,Lenape Regional,Shawnee High School,Science Biological,1,78059,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Camporini,Kara A,Morris,Mount Olive Twp,Sandshore Rd. Elementary School,Elementary School Teacher K-5,1,61376,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Tejeda,Sashary,Essex,Newark City,Quitman Community School,Preschool,1,51012,CEAS,General ed,Traditional,Doesn't need to be highly qualified,5,5,5
+Elmini,Nicole,Middlesex,Middlesex Co Reg Ser Comm,Nuview Academy,Elementary Kindergraten-8 Grade,1,54488,Standard certificate,Special ed,Alternate,Highly qualified. Passed the Praxis/NTE,10,10,10
+Farias,Nataly,Mercer,East Windsor Regional,Perry L. Drew Elementary School,Assistant Principal Elementary School,1,112084,CE,Admin or supervisor,Traditional,Doesn't need to be highly qualified,3,8,8
+Corbett,Kerry,Morris,Parsippany-troy Hills Twp,Parsippany Hills High School,Resource Program In-class,1,83125,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Murie,Amy G,Cumberland,Vineland City,Solve D'ippolito Elementary School,Elementary Kindergraten-8 Grade,1,77366,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Manlove,Veronica,Burlington,Maple Shade Twp,Maple Shade High School,School Nurse,1,102897,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,15,15,15
+Ruegsegger,Cecelia,Ocean,Brick Twp,Brick Township Memorial High School,School Librarian\, Media Specialist Assoc.,1,94185,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,20,20,20
+Basmajian,Melissa,Middlesex,Monroe Twp,Monroe Twp Middle School,Elementary School Teacher K-5,1,65253,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Hughes,Connor,Essex,Irvington Township,Augusta Preschool Academy,Preschool,1,54279,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,1,1
+Sherman,Michael,Bergen,Pascack Valley Regional,Pascack Valley High School,English Non-elementary,1,63000,Provisional,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,0,4,4
+Ruiz,Nicola,Essex,West Essex Regional,West Essex High School,English Non-elementary,1,68634,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Bowser,Tyra,Camden,Winslow Twp,District Office,School Business Administrator,1,127345,Standard certificate,Admin or supervisor,Alternate,Doesn't need to be highly qualified,9,9,9
+Ostapiej,Michelle,Essex,Essex Co Ed Serv Comm,District Office,Elementary Kindergraten-8 Grade,1,67387,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,28,28,28
+Zuczek,Andrea M,Camden,Collingswood Boro,Collingswood High School,English Non-elementary,0.6,65250,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Cacioli,Wendy J,Middlesex,Sayreville Boro,Harry S. Truman Elementary School,Speech Correction/language Specialist,1,85178,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,11,11
+Holder,Genieve A,Bergen,Teaneck Twp,Teaneck High School,Transition Teacher,1,110000,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,19,19,20
+Zarzecki,William,Middlesex,East Brunswick Twp,Hammarskjold Middle School,Typing/word Processing,1,89950,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,16,19,19
+Rightmire,Mayna A,Bergen,Franklin Lakes Boro,Colonial Road School,Elementary Kindergraten-8 Grade,1,105926,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,20,20
+Rumage,Jared J,Monmouth,Red Bank Boro,District Office,Chief School  Administrator/district Superintendent,1,145000,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,2,21,21
+Siddiqui,Khurshid A,Passaic,Paterson City,International High School,Science Chemistry,1,70025,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,15,15,15
+Feddema,Sean,Ocean,Plumsted Twp,New Egypt High School,Social Studies History,1,54906,Provisional,General ed,Traditional,Highly qualified. National Board Certified.,0,2,2
+Steinbach,Beryl J,Essex,Montclair Town,Montclair High School,English Non-elementary,1,107444,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,36,36
+Kuder,Richard D,Bergen,Wyckoff Twp,District Office,Chief School  Administrator/district Superintendent,1,155000,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,15,23,26
+Lecorchick,Thomas M,Ocean,Brick Twp,Brick Township Memorial High School,Social Studies Non-elementary,1,66370,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Covaci,Lauren N,Camden,Pine Hill Boro,Overbrook Senior High School,Reading Remedial-secondary,1,54450,Provisional,General ed,Alternate,Highly qualified. Has 30 credits in content area.,0,0,0
+Ferris,Maria,Camden,Brooklawn Boro,Alice Costello Elementary School,Remedial Math,0.8,49755,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,16,16,16
+Delouis,Maniolita,Essex,East Orange,Benjamin Banneker Academy,English As A 2nd Language,1,58173,Standard certificate,General ed,Alternate,Highly qualified. Has 30 credits in content area.,6,6,6
+Williams,Christopher,Charter,Passaic Arts And Science Charter School,Passaic Arts And Science Charter School,Language Arts/literacy,1,45200,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,2,2
+Stech,Kristin P,Cape May,Cape May Co Special Serv,Cape May County High School,Art,0.4,29676,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Diaz,Auris,Essex,Newark City,Miller Street School At Spencer,Spanish,1,57076,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,10,11,11
+Miller,Rosemary Patricia,Charter,Paterson Charter School For Science/technology,Paterson Charter School For Science/technology,Mathematics Grades 5 - 8,1,55500,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,0,0
+Rai,Soma,Union,Cranford Twp,Cranford High School,Supplementary Instruction (in-class),1,64537,Standard certificate,Special ed,Alternate,Highly qualified. Passed the Praxis/NTE,3,3,4
+Higbee,Cynthia Rey,Atlantic,Egg Harbor Twp,Dr. Joyanne D. Miller Elementary School,Reading Development/remedial Elementary,1,65142,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Digangi,Ina,Somerset,Montgomery Twp,Montgomery Upper Middle School,English/elementary,1,70350,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,18,18,18
+Newman,Lauren,Monmouth,Marlboro Twp,Robertsville Elementary School,Elementary Kindergraten-8 Grade,1,69320,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Vetter,Rebekka C,Gloucester,Woodbury City,Woodbury Jr-sr High School,Lang Arts/literacy Grades 5 - 8,0.4,59436,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Telo Moreira,Carla C,Essex,Newark City,Oliver Street School,Elementary Kindergraten-8 Grade,0.5,95069,Standard certificate,Bilingual,Alternate,Highly qualified\, House Matrix,20,21,21
+Peters,Susan E,Hudson,Jersey City,Alfred Zampella School,Resource Program In-class,1,55396,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Lopes,Michelle,Hudson,Harrison Town,Washington Middle School,School Counselor,1,58570,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,4,4,4
+Gunther,Charles,Atlantic,Egg Harbor City,Egg Harbor City Community Sch,Lang Arts/literacy Grades 5 - 8,1,55506,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Hirschfeld,Toni A,Ocean,Toms River Regional,Toms River Intermediate School North,Science Grades 5  -8,1,91395,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,28,28,28
+Varhley,Dana P,Mercer,Hopewell Valley Regional,Hopewell Elementary School,Elementary Kindergraten-8 Grade,1,65909,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,6,6
+Buzby,Robert,Camden,Sterling High School Dist,Sterling High School,Science Physical,1,50750,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Roehrich,Lynn,Passaic,Woodland Park,Beatrice Gilmore School,School Nurse,1,60770,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,1,1,1
+Kozak,Alexis A,Monmouth,Middletown Twp,Middletown High School South,English Non-elementary,1,71845,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Kenny,Kathleen M,Bergen,Cresskill Boro,Cresskill High School,Math Non-elementary,1,85828,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Jensen,Caridad,Monmouth,Millstone Twp,Millstone Township Elementary School,Supplementary Instruction (in-class),1,87440,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,21
+Shandrey,Colleen,Charter,Red Bank Charter School,Red Bank Charter School,Elementary School Teacher K-5,1,56755,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Millar,James,Bergen,Tenafly Boro,Tenafly High School,Music Instrumental,0.4,93361,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,21,21
+Cancel,Sandra,Hudson,Union City,Robert Waters Elementary School,Elementary Kindergraten-8 Grade,1,111700,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,22,22,22
+Guvercin,Hurisa,Charter,Paterson Charter School For Science/technology,Paterson Charter School For Science/technology,Supervisor Curriculum & Instruction,1,80792,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,7,7,7
+Rios,Carlos G,Passaic,Paterson City,School Of Education And Training,Career Education,1,59700,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,11,11,11
+Georgeian,Kimberly A,Middlesex,Piscataway Twp,District Office,Supervisor Elementary Education,1,121765,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,14,14,14
+Dimova,Dessislava,Ocean,Barnegat Twp,Barnegat High School,Science Biological,1,55489,CE,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,2,2,2
+Sassaman,Michelle,Bergen,Garfield City,Christopher Columbus School #8,Elementary School Teacher K-5,1,44050,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,4,4,4
+Nace,Brian E,Camden,Cherry Hill Twp,Bret Harte Elementary School,Elementary School Teacher K-5,1,51208,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Williams,Gerilyn,Ocean,Pinelands Regional,Pinelands Regional Junior High School,Mathematics Grades 5 - 8,1,60000,Standard certificate,General ed,Alternate,Highly qualified. National Board Certified.,9,11,11
+George,Robert A,Union,Elizabeth City,Dr. Antonia Pantoja School No. 27,Preschool,1,79516,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Shipton,Lauren,Burlington,Shamong Twp,Indian Mills Elementary School,Elementary Kindergraten-8 Grade,1,50445,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,3,3,3
+Stein,Danna,Somerset,Franklin Twp,Franklin Middle School,Lang Arts/literacy Grades 5 - 8,1,18500,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Johnson,Beth Ann,Burlington,Burlington Co Vocational,Burlington County Inst Of Tech - Westhampton,School Counselor,1,87164,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,27,27,27
+Ott,Colleen,Camden,Gloucester City,Mary Ethel Costello School,Speech Correction/language Specialist,1,82266,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,22,32,32
+Padalec,Amelia,Middlesex,Perth Amboy City,James J. Flynn Elementary School,School Nurse,1,73612,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,0,0,0
+Dickman,Patricia,Passaic,Passaic City,Lincoln Middle School # 4,Science Grades 5  -8,1,111837,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,15,15,15
+Wittmaack,Kevin,Essex,Livingston Twp,Livingston High School,Supervisor English,1,125865,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,19,19,19
+Vidolin-hart,Susan M,Union,Scotch Plains-fanwood Reg,Park Middle School,Mathematics Grades 5 - 8,1,65051,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Curtis,Liane,Gloucester,Washington Twp,Hurffville Elementary School,Elementary School Teacher K-5,1,83451,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,28,33,33
+Peterson,Karen,Bergen,Paramus Boro,District Office,Supervisor Pupil Personnel Services/guidance,1,123870,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,31,34,34
+O'donnell,Shana,Burlington,Moorestown Twp,Moorestown Upper Elementary School,Resource Program Pull-out Support,0.5,24750,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Garda,Kelly,Hudson,Bayonne City,Lincoln Community School #5,Elementary School Teacher K-5,1,53190,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Lacouture,Martha Joan,Passaic,Pompton Lakes Boro,Lakeside School,Resource Program Pull-out Support,1,111351,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,26,35,35
+Hogan,Charles M,Somerset,Bedminster Twp,Bedminster Township Public School,Elementary School Teacher K-5,1,81875,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,26,26,26
+Dietz,Victoria,Hunterdon,Bethlehem Twp,District Office,School Psychologist,1,56400,CE,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,5,5,5
+Mooney,Erin,Middlesex,Spotswood Boro,Spotswood High School,Science Biological,1,59200,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Clark,Joseph Peter,Middlesex,North Brunswick Twp,North Brunswick Township High School,High School Principal,1,158268,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,12,37,39
+Firn,James J,Cumberland,Vineland City,Vineland Senior High School,German,1,56928,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,6,6,6
+Kean,Michelle,Camden,Lindenwold Boro,Lindenwold Middle School,Resource Program Pull-out Support,1,87143,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,15,16,16
+Robinson,Jennifer,Camden,Camden City,Cooper's Poynt Family School,Elementary Kindergraten-8 Grade,1,77003,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Goetz,Carole M,Camden,Pennsauken Twp,Gh Carson Elementary School,Elementary Kindergraten-8 Grade,1,82596,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,28,29,29
+Schwartz,Dana,Morris,Morris Hills Regional,Morris Hills High School,Health & Physical Education,1,94565,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,15,15,15
+Reuter,Jodi Lynn,Camden,Camden City,Harry C. Sharp Elementary School,Reading Development/remedial Elementary,1,54987,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Talsma,Alexandra,Bergen,Garfield City,James Madison School #10,Elementary School Teacher K-5,1,42900,Provisional,General ed,Traditional,Highly qualified. National Board Certified.,1,1,1
+Astemborski,Ilene,Mercer,Hopewell Valley Regional,Stony Brook Elementary School,Supplementary Instruction (pull-out),1,88940,Standard certificate,Special ed,Traditional,Highly qualified. Has 30 credits in content area.,20,20,20
+Chevalier,Jon,Bergen,Bergen County Vocational,District Office,Assistant Principal High School,1,126470,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,17,17,17
+Harris-vadell,Holly M,Somerset,Franklin Twp,Franklin Middle School,Science Grades 5  -8,1,57321,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,7,7
+Rafter,Patricia A,Burlington,Riverside Twp,Riverside Elementary School,Elementary Kindergraten-8 Grade,1,82179,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,22,22,22
+Schleckser,Steven,Cape May,Woodbine Boro,Woodbine Elementary School,Social Studies Grades 5 -8,0.75,53991,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,4,7,7
+Mcguckin,Kristina J,Monmouth,Manalapan-englishtown Reg,Milford Brook School,Supplementary Instruction (in-class),1,54659,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Baldaccini,Maureen,Monmouth,Monmouth Co Vocational,Academy Of Allied Health And Science,Medical Assistant,1,79999,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,20,20,20
+De Somma,Colleen M,Ocean,Point Pleasant Boro,Ocean Road Elementary School,Elementary Kindergraten-8 Grade,1,61211,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Gilham,Beatrice,Burlington,Southampton Twp,Southampton Township School #2,Resource Program Pull-out Support,0.75,77150,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,20,24,24
+Dvorschak,Jack E,Camden,Camden City,Cooper's Poynt Family School,School Nurse,1,63003,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Skipper,Kerri A,Camden,Collingswood Boro,Collingswood High School,English Non-elementary,1,51000,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Greenemeir,Lorrie,Warren,Pohatcong Twp,Pohatcong Township School,Resource Program In-class,0.7,53590,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Treadwell,Jacqueline,Middlesex,Middlesex Co Vocational,Middlesex County Vocational School  East  Brunswick,School Librarian\, Media Specialist Assoc.,1,55320,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,7,7,7
+Faia,Carmen S,Atlantic,Linwood City,Belhaven Middle School,Science Grades 5  -8,0.83,53595,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,5,5,5
+Beckford,Sandra M,Bergen,Teaneck Twp,District Office,Supervisor Special Education,1,131665,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,17,18,25
+Targonski,Bridget,Mercer,Hamilton Twp,District Office,Speech Correction/language Specialist,1,54015,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,0,0,0
+Mckoy,Wakisha E,Mercer,Hamilton Twp,Kisthardt Elementary School,Elementary School Teacher K-5,1,47660,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Maire,Mark,Morris,Morris Plains Boro,Morris Plains Borough School,Chief School  Administrator/district Superintendent,1,145000,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,3,16,16
+Guthrie,William,Camden,Pennsauken Twp,Pennsauken High School,Resource Program In-class,1,73379,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Rebimbas,Noralys,Somerset,Warren Twp,Angelo L. Tomaso School,Spanish,1,70741,Standard certificate,General ed,Alternate,Highly qualified\, House Matrix,13,14,14
+Brubaker,Anne Christine,Ocean,Toms River Regional,Silver Bay Elementary School,Elementary School Teacher K-5,1,67452,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,20,20
+Haubensak,Cassandra A,Cape May,Middle Twp,Middle Township Elementary #4,Elementary Kindergraten-8 Grade,1,57231,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Valeriani,Lisa A,Mercer,W Windsor-plainsboro Reg,Millstone River School,School Counselor,1,96975,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,22,23,23
+Marquez-williams,Rita,Gloucester,Pitman Boro,Elwood Kindle Elementary School,Resource Program Pull-out Support,1,75272,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,8,18,18
+Stakiwicz,Margaret J,Hudson,North Bergen Twp,North Bergen High School,Math Non-elementary,1,79700,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Walker,Timothy,Camden,Gloucester City,Gloucester City Jr. Sr. High School,Social Studies Non-elementary,1,80212,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,19,19,19
+Hong,Lin,Essex,Newark City,Sussex Avenue School Burnet Street  School,Kindergarten,1,52788,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,4,4,4
+Scott,Sherry,Atlantic,Margate City,Eugene A. Tighe Middle School,Mathematics Grades 5 - 8,1,94045,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,23,23
+Byrne,Michael,Hudson,Jersey City,William L Dickinson High School,Economics/economic Geography,1,69160,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,7,7,7
+Shulman,Leanne,Passaic,Paterson City,School 16,Supplementary Instruction (in-class),1,52260,CE,Special ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,0,0
+Sernas,Deborah M,Somerset,Hillsborough Twp,Hillsborough Township Elementary School,Elementary Kindergraten-8 Grade,1,68075,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Spagnolo,Leonella,Bergen,Englewood Cliffs Boro,North Cliff School,Elementary School Teacher K-5,1,59360,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Ahl,Debra R,Salem,Penns Grv-carney's Pt Reg,Lafayette - Pershing,Preschool,1,82866,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,24,27,27
+Piuggi,Karen,Charter,Learning Community Charter School,Learning Community Charter School,Elementary School Teacher K-5,1,54053,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,11,11
+Geis,Joseph,Middlesex,East Brunswick Twp,Churchill Jr High School,Industrial Design,1,55698,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,4,4,5
+Krejsa,Angela,Ocean,Southern Regional,Southern Regional High School,English Non-elementary,1,79999,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,17,17,17
+Jackson,Karen Ann,Sussex,High Point Regional,High Point Regional High School,School Nurse/non Instructional,1,75500,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,13,13,13
+Steigerwalt,Otto,Cumberland,Cumberland Regional,Cumberland Regional High School,Health & Physical Education,1,80924,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,17,25,25
+Gatti,Gina M,Atlantic,Atlantic City,New York Avenue School,Elementary School Teacher K-5,1,52107,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Trezza,Jennifer,Warren,North Warren Regional,North Warren Regional School,Science Biological,0.8,71947,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,13,13
+Digaetano,Michelle L,Essex,Bloomfield Twp,Bloomfield High School,Music Vocal,1,61100,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,10,10,10
+Marte,Melissa,Passaic,Paterson City,District Office,Elementary School Teacher K-5,1,57500,CE,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,0,0
+Carroll,John,Ocean,Toms River Regional,Toms River Intermediate School North,Resource Program In-class,1,91645,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,30,30,30
+Burke,Laura,Camden,Berlin Twp,Dwight D Eisenhower Middle School,Lang Arts/literacy Grades 5 - 8,1,88842,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,12,17,17
+Wegman,Kelly,Bergen,Garfield City,Abraham Lincoln School #6,Art,1,42900,CEAS,General ed,Traditional,Highly qualified. National Board Certified.,1,1,1
+Cox,Natasha N,Union,Plainfield City,Hubbard Middle School,Social Studies Grades 5 -8,1,68960,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,9,11,11
+Johnson,Afton Athena,Union,Elizabeth City,Ronald Reagan Academy School No. 30,Music Vocal,1,69970,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,3,3,3
+Sheridan,Thomas A,Gloucester,Monroe Twp,Williamstown Middle School,Health & Physical Education,1,49500,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Veisz,Laura,Atlantic,Hamilton Twp,William Davies Middle School,Elementary Teacher In Secondary Setting Apa Only Subcategory Identifier S\, H\, Or V,1,54607,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,8,8,8
+Kennedy,Danielle C,Middlesex,Metuchen Boro,Edgar Middle School,Mathematics Grades 5 - 8,1,59811,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Abdelmalak,Laurette,Middlesex,South River Boro,South River Middle School,Science Grades 5  -8,1,81150,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,13,19,19
+Harris,Antoinette,Hudson,Jersey City,Dr Ronald Mcnair High School,Resource Program In-class,1,94360,Standard certificate,General ed,Alternate,Not highly qualified,14,14,14
+Severs,Stephanie,Gloucester,Deptford Twp,Shady Lane Elementary School,Resource Program Pull-out Support,1,59055,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Carey,Steven,Gloucester,Pitman Boro,Pitman High School,Music Instrumental,1,72950,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,9,13,13
+Heller,Michael,Passaic,Wayne Twp,Anthony Wayne Middle School,Science Grades 5  -8,1,91200,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,17,19,20
+Perlman,Meryl,Bergen,Northern Highlands Reg,Northern Highlands Regional High School,Family & Consumer Sciences â€“ Foods/nutrition & Food Science,1,82370,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,9,9,9
+Brand,James W,Burlington,Burlington Co Spec Serv,Westampton Campus,Elementary Kindergraten-8 Grade,1,89372,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,20,20,20
+Shievdayal,Jennifer,Hudson,Jersey City,Whitney M. Young Jr. School,Elementary Kindergraten-8 Grade,1,59858,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,19,19,19
+Steinberg,Megan L,Ocean,Toms River Regional,Toms River Intermediate School North,Science Grades 5  -8,1,54250,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Goldsworthy,Kristin L,Essex,South Orange-maplewood,Seth Boyden Elementary Demonstration School,Preschool,1,56903,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Ruiz,Laura,Union,Hillside Twp,Hillside High School,Art,1,80072,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,15,15
+Marks,Deborah A,Bergen,Midland Park Boro,Midland Park Jr./sr. High School,Science Earth,0.2,100440,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,21,21,21
+Curreri,Katherine,Sussex,Frankford Twp,Frankford Township School,Science Grades 5  -8,1,71700,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,8,16,16
+Staunch,Christine,Hudson,Bayonne City,Bayonne High School,Physical Education,1,55490,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,3
+Stringer,Stephanie A,Essex,Livingston Twp,Heritage Middle School,Lang Arts/literacy Grades 5 - 8,1,53485,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Casalino,Marlene,Mercer,East Windsor Regional,Grace N. Rogers Elementary School,Elementary School Teacher K-5,1,80400,Standard certificate,Bilingual,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Maddamma,Kathleen,Essex,Irvington Township,University Elementary School,Elementary School Teacher K-5,1,61076,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,6,6
+Sullivan,Michael,Middlesex,Middlesex Co Vocational,Middlesex County Voc Acad Allied Health & Biomedical Science,Assistant Principal Vocational School,1,97000,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,3,3,3
+Colcol,Jason Modesto,Union,Elizabeth City,Nicholas Murray Butler School No. 23,School Counselor,1,73774,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Yuelling,Nicole M,Union,Elizabeth City,Donald Stewart Early Childhood Center #51,Preschool,1,67970,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,7,7,7
+Cavaliere,Noreen,Monmouth,Ocean Twp,Wanamassa Elementary School,Elementary Kindergraten-8 Grade,1,86200,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,15,27,27
+Fabiano,Amanda E,Passaic,Clifton City,School #12,Elementary School Teacher K-5,1,54550,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Birardi,Wendy E,Middlesex,Piscataway Twp,Theodore Schor Middle School,Mathematics Grades 5 - 8,1,71416,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Burgos,Ashley N,Essex,Bloomfield Twp,The Early Childhood Center @ Forest Glen,Preschool,1,45200,Provisional,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Bruce,Colleen,Atlantic,Galloway Twp,Arthur Rann Elementary School,Elementary Kindergraten-8 Grade,1,82060,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,24,24,24
+Curto,Megan,Middlesex,Spotswood Boro,E Raymond Appleby Elementary School,Elementary Kindergraten-8 Grade,1,56500,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Mazzella,Amanda M,Monmouth,West Long Branch Boro,Betty Mcelmon Elementary,Elementary Kindergraten-8 Grade,1,48000,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Mc Cort,Angela M,Morris,Mount Olive Twp,Mountain View Elementary School,Resource Program Pull-out Support,1,91013,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,16,16,16
+Schneider,Regina,Burlington,Bass River Twp,Bass River Township Elementary School,Preschool,1,67648,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,21,25,25
+Collins,Christina,Atlantic,Hamilton Twp,William Davies Middle School,Science Grades 5  -8,1,54516,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Hartung,Charles,Camden,Collingswood Boro,Collingswood Middle School,Music Comprehensive,0.5,50500,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Rossi,Victoria,Charter,Paterson Charter School For Science/technology,Paterson Charter School For Science/technology,Elementary Kindergraten-8 Grade,1,51000,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Spoto-picucci,Tracy,Atlantic,Galloway Twp,Smithville Elementary School,Elementary Teacher In Secondary Setting Apa Only Subcategory Identifier S\, H\, Or V,1,86758,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,24,24,24
+Politano,Gary J,Essex,Belleville Town,Belleville High School,English Non-elementary,1,74603,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,12,12,12
+Cooper,Pamela,Camden,Winslow Twp,Winslow Township Elementary School Six,Learning Disabilities Teacher Consultant,1,89293,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,4,4
+Richards,Violet,Passaic,Paterson City,School 13,Mathematics Grades 5 - 8,1,102342,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,32,32,32
+Bruno,Tina,Morris,Florham Park Boro,Briarwood School,Supplementary Instruction (in-class),1,75620,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,19,19
+Kanuga,Krishna S,Monmouth,Red Bank Regional,Red Bank Regional High School,Science Physics,1,85119,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,15,15,15
+Silverglade,Craig,Essex,Bloomfield Twp,Carteret Elementary,Health & Physical Education,1,84379,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,21,21,21
+Whelpley,Jason W,Bergen,Midland Park Boro,Midland Park Jr./sr. High School,Science Grades 5  -8,1,50625,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Antoniello,Rocco,Morris,Morris School District,Frelinghuysen Middle School,Social Studies Grades 5 -8,1,64753,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Rousseau,Jaris J,Passaic,Wayne Twp,Wayne Hills High School,Health & Physical Education,1,50900,CEAS,General ed,Traditional,Doesn't need to be highly qualified,1,1,1
+Lopez,Marilyn,Bergen,Fort Lee Boro,Fort Lee High School,Learning Disabilities Teacher Consultant,1,90030,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,10,15,15
+Rotolo,Jeanne M,Monmouth,Keansburg Boro,Joseph C. Caruso School,Elementary Kindergraten-8 Grade,1,81920,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,20,20
+Villone,Katherine,Bergen,Bergenfield Boro,Franklin Elementary School,Elementary School Teacher K-5,1,73885,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,10,10
+Maurer,Susan J,Warren,Washington Twp,Port Colden School,Resource Program Pull-out Support,1,77015,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,18,18,18
+Spezzano,Peter R,Salem,Pittsgrove Twp,District Office,School Psychologist,1,66292,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,2,13,13
+Aurand,Matthew,Monmouth,Upper Freehold Regional,Allentown High School,Math Non-elementary,1,65850,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Ferreira,Dana M,Hudson,Kearny Town,Kearny High School,English As A 2nd Language,1,95625,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,14,15,15
+Dizon,Kimberly,Bergen,Lodi Borough,Lodi High School,Resource Program In-class,0.6,46124,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Degennaro,Nicholas,Sussex,Kittatinny Regional,Kittatinny Regional High School,Social Studies Non-elementary,1,84990,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,18,18,18
+Lombardo,Kathleen E,Union,Union Twp,Jefferson Elementary,Elementary School Teacher K-5,1,70940,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Paolini,Catherine E,Monmouth,Howell Twp,Aldrich Elementary School,Elementary School Teacher K-5,1,100818,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,21,21,21
+Cometz,Florence,Camden,Bellmawr Boro,Ethel M Burke Elementary School,Art,1,89900,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,32,32,32
+Sosnovik,Kathleen A,Morris,Mount Olive Twp,Mount Olive Middle School,Science Grades 5  -8,1,66606,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Pomphrey,Kelli M,Monmouth,Neptune Twp,Neptune High School,Educational Interpreter-sign Language Interpreting,1,43256,Standard certificate,Hearing,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Morris,Judy,Atlantic,Pleasantville City,Leeds Avenue Elementary School,Preschool,1,81713,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,16,25,25
+Curiel,Diamela A,Essex,Irvington Township,Chancellor Avenue School,Spanish,1,55679,Standard certificate,Bilingual,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Mandell-mchenry,Jennifer L,Middlesex,Piscataway Twp,Piscataway Township High School,School Social Worker,1,91027,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,14,14,14
+Cafara,Anna,Ocean,Jackson Twp,Jackson Memorial High School,Spanish,1,57132,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,8,14,14
+D'souza,Anita,Middlesex,Woodbridge Twp,Colonia High School,Math Non-elementary,1,66893,CE,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Franey,Erin R,Middlesex,Edison Twp,Edison High School,Spanish,1,54105,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Saltalamacchia,Maria P,Hudson,Jersey City,Jotham W. Wakeman School,Elementary Kindergraten-8 Grade,0.5,106580,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Farinhas,Philomena,Essex,Cedar Grove Twp,South End Elementary School,Resource Program In-class,1,80492,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,17,17,17
+O'hare,Deborah S,Monmouth,Upper Freehold Regional,Stonebridge Middle School,Elementary Kindergraten-8 Grade,1,67230,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Tedeschi,Carol,Bergen,Ramsey Boro,Wesley D Tisdale Elementary School,Elementary Kindergraten-8 Grade,1,101885,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,24,24,24
+Mc Rae,Karen R,Camden,Camden City,Cooper's Poynt Family School,School Counselor,1,87021,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,24,24,24
+Sena,Lindsay A,Somerset,Franklin Twp,Franklin Park School,Elementary School Teacher K-5,1,55214,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,6,6
+Dennis,Nicole,Passaic,Paterson City,District Office,Preschool,1,58500,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Depeppe,Noel,Hudson,Jersey City,Rev. Dr. Ercel F. Webb School,Elementary Kindergraten-8 Grade,1,77960,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Fowler,Heather,Burlington,Burlington Co Vocational,Burlington County Inst Of Tech - Westhampton,School Nurse/non Instructional,1,59035,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,1,1,1
+Nunes,Christina,Morris,Roxbury Twp,Eisenhower Middle School,Lang Arts/literacy Grades 5 - 8,1,51999,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Simione,Suzanne M,Burlington,Pemberton Twp,Alexander Denbo,English As A 2nd Language,1,56412,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Haas,Bethany A,Gloucester,Gloucester Co Spec Serv,Bankbridge Regional School,Speech Correction/language Specialist,1,62930,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,3,3,3
+Pomerantz,Amy R,Monmouth,Middletown Twp,Middletown High School North,Learning Disabilities Teacher Consultant,1,102068,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,23,31,31
+Leonard- Nevels,Linda,Hudson,Jersey City,Infinity Institute,School Librarian\, Media Specialist Assoc.,1,62158,Standard certificate,General ed,Alternate,Highly qualified. National Board Certified.,0,12,12
+Gorzelnik,Cynthia,Morris,Mountain Lakes Boro,Wildwood Elementary School,Elementary School Teacher K-5,1,100788,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,23,30,30
+Maryon-larose,Leslie,Ocean,Toms River Regional,Toms River High School North,English Non-elementary,1,60520,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Nulle,James M,Monmouth,Neptune Twp,Green Grove Elementary School,Elementary School Principal,1,140899,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Ferrara,Jean M,Middlesex,Old Bridge Twp,Old Bridge High School,Supervisor Mathematics,1,156257,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,27,27,27
+Kocal,Lauren Stephanus,Morris,Madison Boro,Madison Junior School,Resource Program In-class,1,59578,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,5,5
+Raslowsky,Danielle,Hudson,Bayonne City,Henry E Harris Community School,Elementary School Teacher K-5,1,56880,Standard certificate,General ed,Alternate,Highly qualified. Has gradate or undergraduate degree in subject area.,9,9,9
+Flug,Matthew,Somerset,Montgomery Twp,Montgomery High School,Social Studies Non-elementary,1,68235,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,13,13,13
+Waitt,Robert G,Middlesex,Old Bridge Twp,Old Bridge High School,Coordinator Substance Abuse,1,96643,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,17,17,17
+Jackman,Nyonontee D,Essex,Newark City,Camden Street Elementary School,Kindergarten,1,60082,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,2,10,10
+Gaither,Shadiya,Essex,Newark City,Camden Street Elementary School,Preschool,1,51012,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,2,2,2
+Hackney,Lee A,Morris,Randolph Twp,Randolph High School,Assistant Principal High School,1,137756,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,22,22,22
+Fitzsimmons-long,Meghan D,Passaic,Paterson City,School 7,Resource Program In-class,1,57500,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Smith,Kevin,Warren,Phillipsburg Town,Phillipsburg Middle School,Mathematics Grades 5 - 8,1,58945,Provisional,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,1,1,1
+Burke,Andrea J,Somerset,Bedminster Twp,Bedminster Township Public School,Photography/technical,1,63845,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Huze,Kirsten,Passaic,Passaic City,Passaic Gifted And Talented Academy School No 20,Social Studies Grades 5 -8,1,183023,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Muller,Tara,Mercer,Hamilton Twp,Yardville Heights Elementary School,Elementary School Teacher K-5,1,58655,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Ciner,Jean Marie,Ocean,Jackson Twp,Jackson Memorial High School,School Counselor,1,57532,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,8,8,8
+Madison,Kathleen,Sussex,Sussex-wantage Regional,Clifton E Lawrence,Lang Arts/literacy Grades 5 - 8,1,56250,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,1,1,1
+Benali,Somia,Passaic,Paterson City,School Of Science Technology Engineering And Mathematics,Math Non-elementary,1,53160,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Marvulli,Stephanie,Monmouth,Howell Twp,Edith M. Griebling Elementary School,Elementary School Teacher K-5,1,42000,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Bennett,Ashley N,Ocean,Ocean Twp,Frederic A. Priff Elementary School,Elementary School Teacher K-5,1,55225,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Jameson,Lynnsley M,Hunterdon,South Hunterdon Regional,Lambertville Public School,Kindergarten,1,65005,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,7,7
+Paul,Joshua,Hunterdon,Delaware Valley Regional,Delaware Valley Regional High School,Furniture Refinish,1,83495,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,17,17,17
+Bourgault,Thomas,Somerset,Bridgewater-raritan Reg,Bridgewater-raritan High School,Music Comprehensive,1,69078,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,1,1,1
+Burkhard,Kerry,Union,Rahway City,Rahway High School,Social Studies Non-elementary,1,60381,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Calabrese,John,Essex,Belleville Town,Belleville Middle School,Science Biological,1,88227,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,15,15,15
+Arnauer,Scott,Burlington,Maple Shade Twp,Maple Shade High School,High School Principal,1,153921,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,13,13,13
+Sibilia,Lynne,Essex,North Caldwell Boro,Grandview Elementary School,Speech Correction/language Specialist,1,53710,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,8,11,11
+Funes,Petria,Ocean,Plumsted Twp,Dr. Gerald H. Woehr Elementary School,School Psychologist,1,57383,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,4,4
+Mungiello,Lucille,Essex,South Orange-maplewood,Tuscan Elementary,Elementary Kindergraten-8 Grade,1,94312,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Garcia,Antonio Luis,Passaic,Passaic City,Passaic High School # 12,Assistant Principal High School,1,114975,Provisional,Admin or supervisor,Alternate,Doesn't need to be highly qualified,2,14,14
+Sargenti,Michele,Middlesex,Woodbridge Twp,Iselin Middle School,Resource Program In-class,1,58876,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Tedesco,Robin C,Morris,Parsippany-troy Hills Twp,District Office,School Business Administrator,1,165588,Standard certificate,Admin or supervisor,Traditional,Highly qualified. National Board Certified.,20,23,23
+Haggerty,Christine,Passaic,North Haledon Boro,High Mountain Middle School,Elementary Kindergraten-8 Grade,1,51514,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Burtt,Bridgette,Monmouth,Long Branch City,District Office,Supervisor Special Project,1,104040,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,10,10,10
+Connolly,Dana M,Union,Union Twp,Hannah Caldwell Elem Sch,Social Studies Grades 5 -8,1,61565,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Marrero,Aida L,Hudson,Jersey City,Nicolaus Copernicus School,Resource Program In-class,1,99280,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Zimmerman,Edward,Atlantic,Galloway Twp,Reeds Road Elementary School,Elementary Kindergraten-8 Grade,1,86658,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,19,19
+Berloco,Melissa,Essex,Belleville Town,Belleville Ps5,Resource Program In-class,1,88227,Standard certificate,Special ed,Traditional,Highly qualified. Has 30 credits in content area.,19,19,19
+Gentile,Jennifer,Union,Hillside Twp,A.p. Morris Early Childhood Center,Elementary Kindergraten-8 Grade,1,58275,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Bevan,Debra A,Middlesex,South Brunswick Twp,Brooks Crossing Elementary School,Elementary School Teacher K-5,1,85410,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,11,12
+Vandenberghe,Danielle L,Bergen,Midland Park Boro,Midland Park Jr./sr. High School,Mathematics Grades 5 - 8,0.2,60400,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,10,10
+Meyer,Kevin,Hunterdon,Readington Twp,Readington Middle School,Resource Program Pull-out Support,1,62460,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Tull,Nerissa,Essex,East Orange,East Orange Campus High School,Math Non-elementary,1,71673,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,10,10
+Picollo,Sharon T,Burlington,Lenape Regional,Lenape High School,School Counselor,1,84895,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,14,14
+Rouse,Angelise,Mercer,Trenton City,Hedgepeth Williams Middle School,Supplementary Instruction (in-class),1,77040,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,14,14
+Sterling,Deborah,Atlantic,Margate City,Eugene A. Tighe Middle School,Art,1,94045,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,24,24,24
+Sousa,Jennifer,Union,Roselle Park Boro,Roselle Park High School,Math Non-elementary,1,72641,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Mccreight,Shannon,Monmouth,Howell Twp,Ramtown Elementary School,Elementary School Teacher K-5,1,100818,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,20,20
+Barr,Mara,Morris,Mount Olive Twp,Chester M. Stephens Elementary School,Supplementary Instruction (pull-out),1,56397,Standard certificate,Hearing,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Bruder,Ann Marie,Bergen,Midland Park Boro,District Office,Director Special Ed,1,134584,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has 30 credits in content area.,1,1,1
+Adona,Jennifer M,Bergen,Oradell Boro,Oradell Public School,School Psychologist,0.8,55175,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,2,2,2
+Rivera,Gloria E,Cumberland,Vineland City,Gloria M Sabater Elementary School,English As A 2nd Language,1,55578,CE,Bilingual,Alternate,Highly qualified. Passed the Praxis/NTE,0,0,0
+Flug,Sharyn,Monmouth,Freehold Regional,Freehold Borough High School,English Non-elementary,1,70075,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,4,4,4
+Buhnerkemper,Shari R,Ocean,Manchester Twp,Manchester Township Elementary School,Elementary School Teacher K-5,1,72608,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,18,18,21
+Kirsch,Debra F,Bergen,Fair Lawn Boro,Thomas Jefferson Middle School,Basic Skills/remedial English,0.6,48692,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,14,14,14
+Krupa,Andrew,Essex,Livingston Twp,Livingston High School,Supervisor Health/physical Education,1,142536,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,23,33,34
+Elder,Janet I,Hudson,Jersey City,District Office,Elementary School Principal,1,156200,Standard certificate,Admin or supervisor,Traditional,Highly qualified. National Board Certified.,26,26,26
+Hoffmann,Russell W,Mercer,Princeton Regional,John Witherspoon Middle School,Music Instrumental,1,110022,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,34,39,39
+Garifo,Erin E,Essex,Bloomfield Twp,Fairview Elementary,Elementary Kindergraten-8 Grade,1,65100,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,11,11,11
+Miller,Georgeann,Camden,Gloucester City,Gloucester City Jr. Sr. High School,Spanish,1,65709,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,11,15,15
+Piotrowski,Jennifer L,Burlington,Burlington City,Elias Boudinot Elementary School,Elementary School Teacher K-5,1,73716,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,16,16,16
+Feaster,Tara,Middlesex,Edison Twp,Edison High School,Health & Physical Education,1,56250,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,5,5
+Pang,April L,Cumberland,Millville City,Holly Heights Elementary School,Art,1,53573,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Sharabatee,Mona Ata,Passaic,Paterson City,School 6,Reading Specialist,1,57373,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,2,2,2
+Lehlbach,Kimberly A,Somerset,Green Brook Twp,Green Brook Middle School,Social Studies Grades 5 -8,1,52335,CE,Special ed,Traditional,Highly qualified. National Board Certified.,2,2,2
+Pinto,Rebecca,Hudson,North Bergen Twp,North Bergen High School,School Social Worker,1,77669,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,7,7,7
+Riotto,Kerri,Bergen,Leonia Boro,Anna C. Scott Elementary School,Elementary Teacher In Secondary Setting Apa Only Subcategory Identifier S\, H\, Or V,1,52225,Provisional,Special ed,Alternate,Highly qualified. National Board Certified.,1,1,1
+Vogel,Nikole,Salem,Woodstown-pilesgrove Reg,Woodstown High School,Resource Program Pull-out Support,1,54304,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,3,7,7
+Petuskey,Elizabeth A,Atlantic,Atlantic Co Vocational,Atlantic County Institute Of Technology,Hotel And Lodging,1,77686,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,18,18,18
+Tyska,Steven,Middlesex,Sayreville Boro,Sayreville Middle School,Social Studies Grades 5 -8,1,49353,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Wheeler,Leonard Anton Herkul,Charter,North Star Academy Charter School,North Star Academy Charter School,Dean Of Students,1,88000,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,1,11,11
+Clark,Eileen M,Ocean,Lacey Twp,Forked River Elementary School,Elementary School Teacher K-5,1,55123,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,13,13
+Stobie,Kelly,Burlington,Florence Twp,Florence Township Memorial High School,Science Physical,1,61818,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,2,2,2
+Vernon,Joan R,Monmouth,Tinton Falls,Tinton Falls Middle School,Coordinator Substance Abuse,1,68074,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,19,23,23
+Kallas,Risa P,Morris,Denville Twp,Riverview Elementary School,School Nurse,1,74032,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,19,19,19
+Finkelstein,Miriam,Essex,Irvington Township,Florence Avenue School,Elementary Kindergraten-8 Grade,0.5,89790,Standard certificate,Bilingual,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Carrig,Robert R,Somerset,Somerset Co Vocational,Somerset County Vocational Technical High School,Social Studies History,1,70863,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,10,10
+Reed,Stephanie Elizabeth,Charter,North Star Academy Charter School,North Star Academy Charter School,Elementary Kindergraten-8 Grade,1,61000,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,2,2,2
+Barnes,Paul T,Bergen,Paramus Boro,Paramus High School,Math Non-elementary,1,117650,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,32,32,37
+Carty,Kevin T,Somerset,Hillsborough Twp,Hillsborough High School,Computer Literacy/applications/programming,1,68645,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,5,13,13
+Ashton,Nicole,Camden,Voorhees Twp,Signal Hill School,Preschool,1,69637,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,11,11,11
+Gandhi,Samir R,Passaic,Clifton City,Clifton High School,Science Physical,1,96048,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,14,27,28
+Foschetti,Shannon E,Warren,Greenwich Twp,Stewartsville Middle School,Reading Specialist,1,60985,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,9,9,11
+Acheson,Kristen M,Bergen,Old Tappan Boro,T. Baldwin Demarest Elementary School,Elementary School Teacher K-5,1,50424,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,4,4
+Dinuzzo,Kate,Middlesex,East Brunswick Twp,Churchill Jr High School,Math Non-elementary,1,60315,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Carson,Ashley,Hudson,Union City,Eugenio Maria De Hostos Center For Early Childhood Education,Preschool,1,68200,Standard certificate,Special ed,Alternate,Doesn't need to be highly qualified,5,5,7
+Moshe,Orly,Ocean,Lakewood Twp,Oak Street Elem School,Occupation Therapist,1,67471,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,3,3,3
+D'agostino,Seline,Hudson,Jersey City,Alfred Zampella School,Resource Program In-class,1,62158,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Costa,Edite Monica,Union,Elizabeth City,District Office,School Psychologist,1,82655,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,5,5,5
+Johnson,Margaret B,Somerset,Warren Twp,Warren Middle School,School Counselor,1,82596,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,19,19,19
+Beniston,Eileen M,Gloucester,Gloucester Co Spec Serv,Bankbridge Regional School,School Nurse/non Instructional,1,63580,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,4,4
+Dileonardo,Carol,Camden,Winslow Twp,Winslow Township Middle School,Music Comprehensive,1,53225,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Haney,Donald Joseph,Gloucester,Deptford Twp,Monongahela Middle School,Music Comprehensive,1,54555,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,1,1,1
+Sullivan,Renee,Middlesex,Perth Amboy City,Edmund Hmieleski Early Childhood Center,Preschool,1,57600,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,6,6,6
+Sandmeyer-bryan,Debbie,Cape May,Cape May City,Cape May City Elementary School,Library Skills Development,0.5,87751,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,27,27,29
+Sassi,Stacey L,Bergen,Bergenfield Boro,Roy W. Brown Middle School,Music Comprehensive,1,91335,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,18,18,18
+Arevalo,Graciela,Somerset,Hillsborough Twp,Hillsborough Township Elementary School,Resource Program In-class,1,66585,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,9,9
+Anello,Lea,Middlesex,Middlesex Co Vocational,Middlesex County Vocational School  East  Brunswick,Vocational Art/theater,1,60720,CE,General ed,Alternate,Doesn't need to be highly qualified,0,0,0
+Brantley,Colette L,Bergen,Teaneck Twp,Nathaniel Hawthorne Elementary School,School Social Worker,1,94600,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,15,15,15
+Koehl,Dominic M,Camden,Black Horse Pike Regional,Triton Regional High School,Resource Program In-class,1,62941,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,10,11,11
+Irene,Angela,Monmouth,Monmouth Co Vocational,Academy Of Allied Health And Science,Spanish,1,64450,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,17,17,17
+Santomenna,Jennifer A,Ocean,Manchester Twp,Manchester Township Middle School,Lang Arts/literacy Grades 5 - 8,1,56746,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Feinsod,Ethan Y,Union,Summit City,Summit High School,Art,1,97458,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,15,15,15
+Lagatic,Erin,Essex,West Orange Town,West Orange High School,Music Instrumental,1,65769,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,11,11,11
+Camardo,Kimberly N,Burlington,Pemberton Twp,Pemberton Early Childhood Education Center,School Nurse,1,54029,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,0,0,0
+Mensch,Jodi,Essex,Livingston Twp,Livingston High School,Health & Physical Education,1,112526,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,28,30,31
+Coleman,Dana D,Hudson,Kearny Town,Garfield Elementary School,Health & Physical Education,1,62620,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,9,9,9
+Carlberg,Dan,Bergen,Ramsey Boro,John Y Dater Elementary School,Health & Physical Education,1,92720,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,14,14
+Hoover,Kathryn,Camden,Camden City,Henry B. Wilson Family School,Social Studies Grades 5 -8,1,55987,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,5,5,5
+Scalera,John,Warren,Hackettstown,Hackettstown High School,Computer Technology,1,65850,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,4,4,4
+Costello,Kevin J,Atlantic,Greater Egg Harbor Reg,Oakcrest High School,Health,0.6,84325,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,18,21,21
+Sternberg,Ellen Christy,Morris,Madison Boro,Madison Junior School,Resource Program In-class,1,53963,Standard certificate,Special ed,Traditional,Highly qualified. Has 30 credits in content area.,2,3,3
+Suleski,Karen,Middlesex,East Brunswick Twp,Lawrence Brook Elementary School,Resource Program In-class,1,89950,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,21,23,23
+Silva,Lisa P,Essex,Newark City,Ann Street School,Elementary Kindergraten-8 Grade,1,87497,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,19,19,19
+Mastrobattista,Mark A,Somerset,Somerset Co Vocational,Somerset County Vocational Technical High School,Culinary Arts,1,86366,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,8,8,8
+Jimenez,Belinda,Union,Elizabeth City,Terence C. Reilly School # 7,Health & Physical Education,1,81766,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,18,18,18
+Tichio,Cynthia,Somerset,Hillsborough Twp,Triangle Elementary Shcool,Resource Program In-class,1,58445,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Roman,William,Passaic,Paterson City,School Of Government & Public Administration,Math Non-elementary,1,107636,Standard certificate,General ed,Alternate,Highly qualified. Has gradate or undergraduate degree in subject area.,16,16,16
+Shields,Melanie L,Gloucester,Gloucester Co Spec Serv,Bankbridge Regional School,Vocational Arts/dance,1,61630,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,13,13,13
+Dietz,Arthur,Gloucester,Deptford Twp,Monongahela Middle School,Middle School Principal,1,123783,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,8,15,15
+Prophete,Alphonse,Essex,City Of Orange Twp,District Office,French,0.5,89610,Non Citizen,General ed,Traditional,Highly qualified. Has 30 credits in content area.,12,20,20
+Lewis,Lavern,Essex,City Of Orange Twp,Park Avenue Elementary School,Kindergarten,1,77778,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,18,23,23
+Whitney,William,Bergen,Paramus Boro,Paramus High School,Physical Education,1,96300,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,22,30,30
+Mccarthy,Brianna,Burlington,Tabernacle Twp,Kenneth R. Olson Middle School,Resource Program In-class,0.8,52672,Provisional,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Drosos,Raquel A,Middlesex,South Plainfield Boro,South Plainfield High School,Italian,1,61705,Standard certificate,General ed,Alternate,Highly qualified. Has 30 credits in content area.,2,2,2
+Arocho,Yesenia,Essex,Newark City,District Office,School Social Worker,1,96706,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,15,15,15
+Sayco,Inocencio,Passaic,Little Falls Twp,Little Falls Township Public School # 1,Custodial Services,1,48011,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,10,10
+Carrigg,Laura,Monmouth,Manalapan-englishtown Reg,Pine Brook School,Mathematics Grades 5 - 8,1,59569,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Mark,Susan A,Camden,Cherry Hill Twp,Rosa International Middle School,Music Comprehensive,1,95300,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,18,18,18
+Kirchner,Erin P,Monmouth,Middletown Twp,Fairview Elementary School,Elementary Kindergraten-8 Grade,1,108283,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,16,25,25
+Ohnsorg,Kathryn,Somerset,Bridgewater-raritan Reg,Eisenhower Intermediate School,Social Studies Grades 5 -8,1,71949,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Casale,Aldo,Essex,West Orange Town,West Orange High School,School Counselor,1,102024,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,10,10
+Peoples,Linda,Burlington,Pemberton Twp,Alexander Denbo,Elementary Kindergraten-8 Grade,1,85667,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,22,22,22
+Wykoff,Samuel A,Sussex,Kittatinny Regional,Kittatinny Regional High School,Technology Education,1,60640,CE,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,0,0
+Gruver,Gregory,Atlantic,Buena Regional,Buena Regional High School,Physical Education,1,69696,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,11,11,11
+Cotton,Theresa,Gloucester,Washington Twp,Washington Township High School,School Nurse/non Instructional,1,91658,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,12,12,19
+Carrasquillo,Jose M,Essex,Newark City,Louise A Spencer Elementary School,Music Comprehensive,1,87497,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,20,21,21
+Patil,Pratima,Somerset,Somerset Co Vocational,Somerset County Vocational Technical High School,Science Biological,1,67409,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+De Paolo,Sandra,Middlesex,Woodbridge Twp,John F. Kennedy High School,Social Studies History,1,97156,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,23
+Salit,Jaclyn,Middlesex,Metuchen Boro,Campbell Elementary School,Elementary School Teacher K-5,1,48991,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,9,9
+Teal,Rosemary,Essex,Newark City,Quitman Community School,Preschool,1,103179,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,28,28,28
+Khomyak,Jennifer,Morris,Roxbury Twp,Lincoln/roosevelt School,Elementary Kindergraten-8 Grade,1,78681,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,16,16,16
+Stewart,Alison,Hunterdon,Readington Twp,Holland Brook School,Reading Development/remedial Elementary,0.5,26000,Provisional,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Adase,Robert A,Hunterdon,Clinton Town,Clinton Public School,Social Studies Grades 5 -8,1,62302,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,10
+Turant,Nicole,Union,Plainfield City,Cedarbrook Elementary School,Resource Program In-class,1,52910,Provisional,Special ed,Traditional,Doesn't need to be highly qualified,2,2,2
+Barnoski,Paul,Ocean,Toms River Regional,Toms River High School North,English Non-elementary,1,74246,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,22,22,22
+Renn,Jennifer C,Union,Summit City,Summit High School,Science Biological,1,67061,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,6,6,6
+Gonnella,Theresa,Essex,Millburn Twp,Millburn Middle School,Assistant Principal Middle School,1,166486,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has 30 credits in content area.,24,24,24
+Francis,Ashley,Passaic,Passaic Valley Regional,Passaic Valley Regional High School,Basic Skills/remedial English,1,57219,Provisional,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Caulfield,Maryrose,Hunterdon,Flemington-raritan Reg,District Office,Chief School  Administrator/district Superintendent,1,165000,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,1,15,15
+Ferrari,Dana,Hudson,North Bergen Twp,Mckinley Elementary School,Mathematics Grades 5 - 8,1,50610,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Knaul,Ryan,Camden,Audubon Boro,Audubon Junior/senior High School,Health & Physical Education,1,56000,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Dilorenzo,Catherine,Mercer,Princeton Regional,John Witherspoon Middle School,School Counselor,1,99517,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,16,19,19
+Slattery,Katherine,Charter,Team Academy Charter School,Team Academy Charter School,Science Grades 5  -8,1,64234,Standard certificate,General ed,Alternate,Highly qualified. National Board Certified.,0,3,4
+Foley,Alexandra,Somerset,Warren Twp,Warren Middle School,Resource Program In-class,1,78152,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,17,22,22
+Hess,Jodi,Bergen,Ridgefield Boro,Ridgefield Memorial High School,Math Non-elementary,0.5,110319,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,20,20,20
+Demkow,Malgorzata,Union,Rahway City,Rahway High School,Math Non-elementary,1,63282,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Hughen,Bevin J,Morris,Boonton Town,John Hill School,Elementary Kindergraten-8 Grade,1,60367,Standard certificate,General ed,Alternate,Highly qualified\, House Matrix,15,15,15
+Burns,Jacqueline,Union,Linden City,Number 5,Preschool,1,88954,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,16,21,21
+Fishman,Lindsay,Charter,Jersey City Golden Door Charter School,Jersey City Golden Door Charter School,Elementary School Teacher K-5,1,50160,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Cioffi,June,Gloucester,Kingsway Regional,Kingsway Regional High School,Supervisor Of Athletics\, Health And Physical Education,1,120787,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,2,2,2
+Johnson,Lashawn B,Essex,East Orange,District Office,Teacher/behavior Specialist (traditional Students),1,96140,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,17,17,17
+Rossi,Nicole,Monmouth,Keansburg Boro,Keansburg High School,Resource Program In-class,1,71725,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Kessell,Sandra L,Morris,Randolph Twp,Randolph High School,English Non-elementary,1,82167,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,29,29,29
+Weinpel,Maria L,Morris,Mendham Boro,Mountain View,Spanish Grades 5 - 8,1,56830,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Bayliss,Annemarie,Morris,Wharton Boro,Marie V. Duffy Elementary School,Elementary Kindergraten-8 Grade,1,67105,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Opramolla,Jodi Nan,Middlesex,New Brunswick City,District Office,Resource Program In-class,1,91947,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Elvis,Karin,Somerset,Branchburg Twp,Stony Brook School,Elementary School Teacher K-5,1,61295,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,14,15,15
+Caruso,Marissa M,Morris,Randolph Twp,Center Grove School,Elementary School Teacher K-5,1,63590,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Charatsaris,Courtney Anastasia,Passaic,Clifton City,School #11,Supplementary Instruction (in-class),1,59050,CEAS,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Levine-kulchinsky,Sharon S,Ocean,Jackson Twp,Elms Elementary School,School Psychologist,1,89602,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,7,18,18
+Atencio,Sarahi,Morris,Morris Hills Regional,Morris Hills High School,Spanish,1,57840,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Chowdhury,Yasmin,Passaic,Paterson City,Don Bosco Academy,English As A 2nd Language,1,53160,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,5,5,5
+Cwirko,Robert,Burlington,Moorestown Twp,Moorestown High School,Drafting And Design Technology (includes Mechanical\, Architectural\, Machine Drawing\, Architecture/home Planning\, Blueprint Reading\, Industrial Arts\, I,1,95695,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,18,22,22
+Stubaus,Heather,Bergen,Elmwood Park,Gantner Avenue School,Elementary School Teacher K-5,1,46360,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Mack,Robynn A,Atlantic,Egg Harbor Twp,Dr. Joyanne D. Miller Elementary School,Reading Development/remedial Elementary,0.6,77868,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,15,15
+Daniels,Teah,Atlantic,Hammonton Town,Hammonton High School,Drafting And Design Technology (includes Mechanical\, Architectural\, Machine Drawing\, Architecture/home Planning\, Blueprint Reading\, Industrial Arts\, I,1,66886,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,7,11,11
+Canino,Frances,Hudson,Hoboken City,Thomas G. Connors,Science /elementary,0.5,110137,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,41,41,41
+Rizvi,Nigar,Essex,Newark City,Malcolm X Shabazz High School,Math Non-elementary,1,53818,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,8,9,9
+Hammill,Susan,Mercer,Hopewell Valley Regional,Stony Brook Elementary School,Elementary Kindergraten-8 Grade,1,78138,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,19,19
+Yandoli,Kathleen,Atlantic,Greater Egg Harbor Reg,Absegami High School,Educational Interpreter-sign Language Interpreting,1,52416,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,10,15,15
+Brock,Christine E,Mercer,Hamilton Twp,Yardville Elementary School,Elementary School Teacher K-5,1,48660,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Medlock,Michael F,Gloucester,Monroe Twp,Williamstown Middle School,Mathematics Grades 5 - 8,1,63950,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,14,14
+Orefice,Frances,Bergen,Norwood Boro,Norwood Public School,Supervisor Curriculum & Instruction,1,101490,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,7,23,23
+Klump,Frank,Morris,Pequannock Twp,Pequannock Township High School,School Counselor,1,63255,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,0,0,0
+Krauland,Douglas J,Sussex,Sparta Twp,Sparta High School,Cinema/tv Production,1,76425,Standard certificate,General ed,Alternate,Highly qualified. National Board Certified.,8,8,8
+Harvey,Kelly Ann,Camden,Camden City,Woodrow Wilson High School,Science General,1,56387,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Innarella,Theresa,Monmouth,Manasquan Boro,Manasquan Elementary School,Resource Program Pull-out Support,1,61245,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,7,7,7
+Reeves,Nicole R,Camden,Gloucester Twp,Union Valley Elementary School,Elementary School Teacher K-5,1,57000,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Griffin,Kerianne V,Sussex,Newton Town,Merriam Avenue School,Elementary School Teacher K-5,1,52535,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,0,0,0
+Bittner,Jamie,Essex,Montclair Town,Montclair High School,Health & Physical Education,1,91711,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,18,34,34
+Cole,William,Morris,Morris School District,District Office,School Psychologist,1,92345,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,17,17,17
+Lampariello,Sarah,Hunterdon,Bethlehem Twp,Ethel Hoppock Middle School,Lang Arts/literacy Grades 5 - 8,1,52855,Standard certificate,General ed,Alternate,Highly qualified. National Board Certified.,9,9,9
+Morrissey,Daphne,Union,Cranford Twp,Cranford High School,Science Chemistry,1,61513,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,12,12
+Paoletti,Anne M,Gloucester,Clearview Regional,Clearview Regional Middle School,Mathematics Grades 5 - 8,1,75400,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,14
+Senzamici,Anthony,Bergen,Bergenfield Boro,Bergenfield High School,Science General,1,84515,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Patton,Daniel,Hunterdon,Califon Boro,Califon Elementary,Elementary School Principal,0.8,113250,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,3,10,10
+Setzer,Jennifer L,Somerset,Somerville Boro,Van Derveer Elementary School,Elementary School Teacher K-5,1,54907,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Kirby,Jennifer,Essex,Verona Boro,Laning Avenue School,Elementary School Teacher K-5,1,48005,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Bishop,Alison J,Hunterdon,Flemington-raritan Reg,Robert Hunter Elementary School,Elementary Kindergraten-8 Grade,1,78100,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,16,16
+Delaurentis,John G,Somerset,North Plainfield Boro,North Plainfield High School,English Non-elementary,1,71950,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Santos,Francine A,Bergen,Lodi Borough,Washington School,Preschool,1,99086,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,23,23,23
+Demarzo,Tara,Middlesex,Old Bridge Twp,Jonas Salk Middle School,Lang Arts/literacy Grades 5 - 8,1,47243,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,1,1,1
+D'amico,Frank M,Bergen,Lodi Borough,Lodi High School,High School Principal,1,147515,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,15,15,15
+Coburn,Matthew S,Mercer,W Windsor-plainsboro Reg,West Windsor-plainsboro High School South,Social Studies Non-elementary,1,54000,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Oberlin,Diane,Morris,Montville Twp,William Mason School,Kindergarten,1,87842,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,20,20,20
+Goodell,Jennifer,Bergen,Tenafly Boro,J Spencer Smith School,Teacher/ Behavior Specialist (se Only),0.2,94261,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,4,17,17
+Spinnato,Eric C,Cumberland,Vineland City,Vineland Senior High School,Resource Program Pull-out Support,0.5,74427,Standard certificate,Special ed,Alternate,Highly qualified. National Board Certified.,20,20,20
+Stack,Kristin,Essex,Caldwell-west Caldwell,Grover Cleveland Middle School,Resource Program In-class,1,50981,Standard certificate,Special ed,Traditional,Highly qualified. National Board Certified.,2,2,2
+Machen,Kristen L,Middlesex,Old Bridge Twp,Leroy Gordon Cooper Elementary School,Elementary School Teacher K-5,1,69862,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Franco,Elizabeth,Passaic,Prospect Park Boro,Prospect Park School No. 1,In-school Suspension,1,60355,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,8,8,8
+Gallagher,Laura L,Somerset,Bernards Twp,Oak Street School,Speech Correction/language Specialist,1,88450,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,8,8,8
+Acerra,Lora K,Monmouth,Howell Twp,Ardena Elementary School,School Nurse,1,93100,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,17,17,17
+Wiberg,Debra E,Cumberland,Vineland City,Gloria M Sabater Elementary School,Basic Skills/remedial English,1,74427,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Jackson,Maritza,Essex,Newark City,Barringer Academy Of S.t.e.a.m.,Social Studies Non-elementary,0.5,61146,Provisional,Bilingual,Traditional,Highly qualified. Passed the Praxis/NTE,4,5,5
+Yanni,Kathy,Bergen,Tenafly Boro,J Spencer Smith School,School Counselor,1,62621,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,4,4
+Marxer,Amanda S,Burlington,Burlington City,Samuel Smith Elementary School,Preschool,1,57147,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,7,7,9
+Connolly,Meghan E,Ocean,Manchester Twp,Ridgeway Elementary School,Elementary School Teacher K-5,1,66101,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Raghunandan,Vishnu,Essex,East Orange,East Orange Campus High School,Social Studies Non-elementary,1,60573,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,8,8,8
+Pereira,Dolores,Passaic,Paterson City,Roberto Clemente,English As A 2nd Language,1,78907,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,18,18,18
+Gross-devita,Victoria,Monmouth,Tinton Falls,Mahala F. Atchison School,Learning Disabilities Teacher Consultant,1,73664,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,18,18,18
+Pereira,Melissa,Bergen,Lodi Borough,Washington School,Elementary School Teacher K-5,1,42533,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Powell,Leslie E,Gloucester,Gloucester Co Spec Serv,Bankbridge Regional School,Basic Skills/remedial English,0.5,42547,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,6,18,18
+Vankirk,Jennifer,Sussex,Sparta Twp,Mohawk Avenue School,Resource Program Pull-out Support,1,79665,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Monteiro,Susana N,Essex,Newark City,Rafael Hernandez School,Mathematics Grades 5 - 8,0.5,67760,Standard certificate,Bilingual,Alternate,Highly qualified. Passed the Praxis/NTE,15,16,16
+Mc Keon,Victoria D,Monmouth,Freehold Regional,Manalapan High School,Math Non-elementary,1,89075,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,14,14,14
+Bernadel,Marclyne,Essex,Newark City,District Office,Teacher Coach,1,94750,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,6,6,6
+Pernell,Shar-mekka,Middlesex,Piscataway Twp,Piscataway Township High School,School Counselor,1,55034,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,2,2
+Petriello,Laura A,Monmouth,Highlands Boro,Highlands Elementary School,Elementary School Teacher K-5,1,52295,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Becker,Robert,Morris,Dover Town,District Office,Chief School  Administrator/district Superintendent,1,167500,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,42,42,42
+Mahon,Patrick,Passaic,West Milford Twp,Macopin Middle School,In-school Suspension,1,19321,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,1,1,1
+Robertson,Keith W,Bergen,Bergen Co Special Service,District Office,Coordinator Substance Abuse,1,111445,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,26,26,26
+Pasculli,Catherine,Warren,Blairstown Twp,Blairstown Elementary School,Music Comprehensive,1,57655,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,7
+Lescarret,Judith,Union,Plainfield City,District Office,Learning Disabilities Teacher Consultant,1,90500,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,15,15,22
+Dolan,Edward J,Bergen,Cliffside Park Boro,Cliffside Park High School,Science Biological,1,48750,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,0,0
+Howard,Kimberly,Essex,Irvington Township,Grove Street School,Elementary Kindergraten-8 Grade,1,97726,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,13,25,25
+Budd,Maria P,Gloucester,West Deptford Twp,Green-fields Elementary School,School Nurse,1,70480,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,12,12,12
+Marsigliano,Jillian,Bergen,Montvale Boro,Fieldstone Middle School,Social Studies Grades 5 -8,1,53542,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Schnyderite,James,Hunterdon,Delaware Valley Regional,Delaware Valley Regional High School,Music Vocal,1,68525,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,5,14,14
+Foster,Jerrisa,Charter,New Horizons Community Charter School,New Horizons Community Charter School,Kindergarten,1,49100,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,2,3,3
+Piontkowski-bologn,Natalie Piontkowski,Camden,Eastern Camden County Reg,Eastern Regional High School,Math Non-elementary,1,73851,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,7,12,12
+Jara,Maria,Essex,Newark City,Rafael Hernandez School,Resource Program In-class,1,58568,Standard certificate,Special ed,Alternate,Doesn't need to be highly qualified,13,13,13
+O'neill,Kaitlin,Charter,Hope Community Cs,Hope Community Cs,Elementary School Teacher K-5,1,30000,Provisional,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,0,0,0
+Lion-bailey,Christine,Morris,Morris Plains Boro,Morris Plains Borough School,Supervisor Personnel/staff Development,1,89305,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,12,12
+Turner,Susan,Union,Cranford Twp,Cranford High School,Social Studies Non-elementary,1,64313,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,9,9,9
+Powell,Rhonda A,Morris,Jefferson Twp,Jefferson Township High School,Math Non-elementary,1,53205,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Lo Franco,Anthony,Morris,Morris School District,District Office,School Business Administrator,1,149940,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,6,7,7
+Stephenson,Alinka,Charter,Great Oaks Legacy Charter School,Great Oaks Legacy Charter School,Elementary School Teacher K-5,1,61233,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Mavin,Kenneth A,Essex,East Orange,East Orange Campus High School,Social Studies Non-elementary,1,57573,CE,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,1,1,1
+Farrell,Angela,Middlesex,Edison Twp,Herbert Hoover Middle School,Lang Arts/literacy Grades 5 - 8,1,56250,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,4,4
+Santulli,Kimberly,Bergen,River Vale Twp,Woodside Elementary School,Kindergarten,1,100970,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,20,24,24
+Congero,Noelle,Morris,Randolph Twp,Randolph Middle School,Resource Program In-class,1,54240,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Yapczenski,Edward,Union,Plainfield City,Plainfield Academy For The Arts & Advanced Studies,Health & Physical Education,1,64060,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,11,11,11
+Alfaro,Diosmerida J,Middlesex,South Amboy City,South Amboy Middle/high School,Spanish,1,58567,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Lister,Pamela,Monmouth,Ocean Twp,Ocean Township High School,French,1,57855,Standard certificate,General ed,Alternate,Highly qualified. National Board Certified.,5,5,5
+Vayner,Yelena,Passaic,Clifton City,School #14,Resource Program Pull-out Support,1,60775,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,10,10
+Colucci,Denise,Morris,Dover Town,East Dover Elementary School,Elementary Kindergraten-8 Grade,1,72071,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Malave,Lucy,Hudson,Jersey City,Ps # 34,Elementary Kindergraten-8 Grade,1,106580,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,18,18,18
+Cornelius,Jessica F,Camden,Pennsauken Twp,Pennsauken High School,Computer Literacy/applications/programming,1,57811,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Mcnally,Celine,Union,Cranford Twp,Hillside Avenue School,Assistant Principal Elementary School,1,92596,Provisional,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,2,9,9
+Pepperman,Alicia,Morris,Morris Hills Regional,Morris Hills High School,English Non-elementary,1,84715,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,11,13,13
+Mcclung,Caitlin N,Mercer,Hamilton Twp,Robinson Elementary School,Kindergarten,1,51560,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Hall,Josephine,Burlington,Mount Laurel Twp,Countryside Elementary School,Elementary Kindergraten-8 Grade,1,90281,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,27,27,27
+Szalma,Christopher L,Middlesex,New Brunswick City,New Brunswick High School,Math Non-elementary,1,54907,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Church-williams,Dana,Burlington,Moorestown Twp,Moorestown High School,Science Biological,1,78934,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Migliore,Alicia N,Union,Plainfield City,Cedarbrook Elementary School,Elementary School Teacher K-5,1,67810,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,13,13
+Armstrong,Kelly,Ocean,Lakewood Twp,Lakewood High School,Physical Education,1,48746,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,5,5,5
+Baker,Maria V,Monmouth,Freehold Regional,Marlboro High School,Spanish,1,92075,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,15,15,15
+Belfort,Wilnie,Essex,City Of Orange Twp,Rosa Parks/central Community School,Preschool,1,54711,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,5,9,9
+Tatis,Jhilda C,Passaic,Paterson City,School 15,Preschool,1,58000,Standard certificate,General ed,Alternate,Doesn't need to be highly qualified,1,1,1
+Mello,Nathan,Bergen,Cresskill Boro,Cresskill High School,Music Comprehensive,1,74345,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Oliver,Melissa A,Burlington,Bordentown Regional,Peter Muschal Elementary,Elementary Kindergraten-8 Grade,1,52482,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Anton,Glenn,Passaic,West Milford Twp,Westbrook Elementary School,Elementary Kindergraten-8 Grade,1,62520,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Sferra,Dianna M,Monmouth,Freehold Regional,Manalapan High School,Math Non-elementary,1,107075,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,33,33,33
+Scheetz,Doreen,Morris,Rockaway Twp,Catherine A Dwyer Elementary School,Kindergarten,1,64497,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Homentosky,Lori,Sussex,Hampton Twp,Marian E. Mckeown Elementary School,Elementary Kindergraten-8 Grade,1,62147,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,10,10
+Forsythe,Kaitlyn D,Bergen,Fair Lawn Boro,Thomas Jefferson Middle School,Science Grades 5  -8,1,61065,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Dancer,Diane L,Ocean,Plumsted Twp,New Egypt Middle School,Science Grades 5  -8,1,62808,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,11,11
+Livecchi,Felice L,Camden,Cherry Hill Twp,Henry C. Beck Middle School,Resource Program In-class,1,99421,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,15,15,15
+Lubin,Timothy G,Burlington,Mount Laurel Twp,T. E. Harrington Middle School,Lang Arts/literacy Grades 5 - 8,1,95228,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,27,27,27
+Needham,George,Mercer,Hopewell Valley Regional,Hopewell Valley Central High School,Supplementary Instruction (pull-out),1,89871,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,15,15,18
+Vander Meulen,Dana,Monmouth,Freehold Regional,Colts Neck High School,Educational Interpreter-sign Language Interpreting,1,69075,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,2,9,11
+Maroun,Lisa,Monmouth,Hazlet Twp,Raritan High School,Health & Physical Education,1,61800,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,11,11,11
+Manser,Brian R,Monmouth,Tinton Falls,Tinton Falls Middle School,Music Instrumental,1,50253,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,4,5,5
+Napoleone,Vincent,Hudson,Harrison Town,Harrison High School,Science General,1,74690,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,16,16
+Kalvaitis,Amy,Camden,Pine Hill Boro,Dr. Albert M. Bean School,Elementary Kindergraten-8 Grade,1,51636,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,3,3,3
+Collins,Courtney A,Somerset,Franklin Twp,Franklin Park School,Kindergarten,1,51643,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Kanterman,Robin,Union,Springfield Twp,Florence M. Gaudineer Middle School,Science Grades 5  -8,1,84052,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Hannings,Laura C,Burlington,Moorestown Twp,William Allen Middle School,Resource Program In-class,1,75330,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,13,13,13
+Nguyen,Quynhkhuyen,Camden,Camden City,Dr. Charles E. Brimm Medical Arts High School,Chinese,1,52987,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Blackburn,Rina C,Essex,East Orange,Mildred Barry Garvin Elementary,Elementary Kindergraten-8 Grade,1,59373,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,7,7,7
+Bilinski,John J,Salem,Salem Co Special Service,Cumberland Campus,Health & Physical Education,1,52220,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,5,5,5
+Firestein,Naomi L,Gloucester,Paulsboro Boro,Paulsboro High School,School Psychologist,1,48584,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,20,25,25
+Fosgreen,Maureen,Middlesex,South Amboy City,South Amboy Middle/high School,Math Non-elementary,1,57812,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,4,5,5
+Ris,Denise,Bergen,New Milford Boro,Bertrand F Gibbs Elementary School,Elementary Kindergraten-8 Grade,1,65225,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,16,19,19
+Sitzler,Annemarie,Burlington,Pemberton Twp,Helen A. Fort/marcus Newcomb Middle School,Resource Program In-class,1,77790,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,11,11,11
+Farrell,Kathleen,Union,Scotch Plains-fanwood Reg,Evergreen School,Elementary School Teacher K-5,1,63271,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Smith-fiducia,Carla M,Monmouth,Asbury Park City,Asbury Park High School,Supplementary Instruction (in-class),1,90950,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,27,27,27
+Czuba,Maria,Hudson,Bayonne City,Midtown Community School #8,Elementary Kindergraten-8 Grade,1,101452,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,21,21,21
+Alexander,Jamie,Charter,Camdens Promise Charter School,Camdens Promise Charter School,Elementary School Teacher K-5,1,51000,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Posik,Heather,Middlesex,Sayreville Boro,Harry S. Truman Elementary School,Reading Development/remedial Elementary,1,49028,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Christen,Paula A,Hudson,Jersey City,District Office,Director Student Personnel Services Guidance,1,147600,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,26,26,26
+Quick,Carmella,Ocean,Lakewood Twp,Lakewood Middle School,Elementary Kindergraten-8 Grade,1,54046,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,10,10,10
+Lauzon,Kim,Bergen,Paramus Boro,East Brook Middle School,German,0.2,89800,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,18,19,19
+Rutter,Rachael R,Camden,Pennsauken Twp,Pennsauken High School,Resource Program Pull-out Support,1,69970,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,9,10,10
+Falls,Raymond,Charter,Freedom Prep Charter School,Freedom Prep Charter School,Science Biological,1,60000,Provisional,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,0,6,6
+Csizmadia,Madison A,Burlington,Pemberton Twp,Pemberton Early Childhood Education Center,Resource Program In-class,1,54029,CEAS,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Uddin,Niaz,Essex,Newark City,Mt Vernon Place School,Assistant Principal Elementary School,1,85000,CE,Admin or supervisor,Traditional,Doesn't need to be highly qualified,6,6,6
+Jean-marie,Leslie Renee,Mercer,W Windsor-plainsboro Reg,Town Center Elementary School At Plainsboro,Reading Development/remedial Elementary,1,95140,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,11,11,25
+Gonzalez,Krystal M,Charter,University Heights Charter School,University Heights Charter School,Preschool,1,55775,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Kielty,Timothy,Union,Springfield Twp,Florence M. Gaudineer Middle School,Middle School Principal,1,139676,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Degregory,Sharyn,Bergen,Old Tappan Boro,T. Baldwin Demarest Elementary School,Elementary School Teacher K-5,1,98059,Standard certificate,General ed,Traditional,Highly qualified\, House Matrix,32,32,34
+Fischer,Susan A,Hunterdon,Flemington-raritan Reg,Barley Sheaf Elementary School,Elementary Kindergraten-8 Grade,1,81760,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,20,20
+Visaggio,Kelley,Passaic,West Milford Twp,Apshawa Elementary School,Elementary Kindergraten-8 Grade,1,65620,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Nicholas,Kalliopi,Hudson,Jersey City,Cornelia F. Bradford School,Elementary Kindergraten-8 Grade,1,106580,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Mccarron,Lindsay D,Cumberland,Upper Deerfield Twp,Elizabeth F. Moore School,Elementary School Principal,0.5,90000,CE,Admin or supervisor,Traditional,Doesn't need to be highly qualified,1,11,11
+Cash,Briana A,Middlesex,Edison Twp,Martin Luther King Elementary School,Elementary School Teacher K-5,1,53605,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Cackowski,Donna M,Camden,Collingswood Boro,Thomas Sharp Elementary School,Elementary Kindergraten-8 Grade,1,81700,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Bullen,Nancie M,Somerset,Franklin Twp,Sampson G. Smith School,Art,1,99764,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,25,31,31
+Sundberg,Jeffrey,Middlesex,East Brunswick Twp,East Brunswick High School,Health,1,71515,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,10,10,10
+Jaramillo,Ines,Union,Union Twp,Union Senior High,Math Non-elementary,1,84611,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,17,17,17
+Smith,Simone,Union,Rahway City,Rahway High School,English Non-elementary,1,60381,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Grant-simmons,Tiffany,Hudson,Jersey City,District Office,Preschool,1,58696,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Swavely,Kateri M,Hunterdon,Bethlehem Twp,District Office,Music Instrumental,1,40320,CEAS,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Evans,Nancy E,Hunterdon,Alexandria Twp,Lester D. Wilson Elementary School,Elementary Kindergraten-8 Grade,0.4,69738,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,2,2,7
+Garay,Marsha,Union,Rahway City,Rahway 7th & 8th Grade Academy,Elementary Kindergraten-8 Grade,1,71863,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,16,16,16
+Quinn,Robert,Hunterdon,N Hunt/voorhees Regional,North Hunterdon High School,Science Physics,1,103290,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,22,24,24
+Evans,Gregory,Somerset,Bridgewater-raritan Reg,Bridgewater-raritan High School,Resource Program In-class,1,90540,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,21,21,21
+Labianca,Laura,Middlesex,North Brunswick Twp,North Brunswick Township High School,Resource Program In-class,1,67378,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Koontz,Michael P,Monmouth,Marlboro Twp,Frank Defino Central Elementary School,Health & Physical Education,1,59570,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,5,5,5
+Gonnerman,Elizabeth,Bergen,Maywood Boro,Maywood Avenue School,Elementary Kindergraten-8 Grade,1,101200,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,12,15,15
+Fetter,Erin,Monmouth,Holmdel Twp,Village School,Teacher Coach,1,68400,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,5,5,5
+Jyothiraj,Sudha,Union,Union County Vocational,Academy For Information Technology,Science Physics,1,61127,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,4,9,9
+Matto,Allison M,Monmouth,Red Bank Regional,Red Bank Regional High School,Social Studies Non-elementary,1,62250,Standard certificate,General ed,Alternate,Highly qualified. Passed the Praxis/NTE,5,5,5
+Garcia,Mary Grace,Middlesex,Perth Amboy City,Edward J. Patten Elementary School,Elementary School Teacher K-5,1,55200,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Mcgrath,Tara,Middlesex,East Brunswick Twp,East Brunswick High School,School Social Worker,1,62844,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,4,4
+Nicosia,Brooke,Middlesex,Edison Twp,Franklin D Roosevelt School,Preschool,1,67450,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,10,10,10
+Vitelli,Nicholas J,Hunterdon,Flemington-raritan Reg,Barley Sheaf Elementary School,Health & Physical Education,1,75885,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,18,18
+Mccolligan,Thomas,Gloucester,Deptford Twp,Deptford Township High School,Resource Program In-class,0.6,85055,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,27,27,27
+Mcbain,Lauren L,Monmouth,Highlands Boro,Highlands Elementary School,Elementary School Teacher K-5,1,56395,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,5
+Britton,Kimberly Ann,Passaic,Paterson City,School 24,Elementary School Teacher K-5,1,58000,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,0,0,0
+Bellino,Denise,Charter,Learning Community Charter School,Learning Community Charter School,School Nurse/non Instructional,0.6,40000,Standard certificate,General ed,Alternate,Highly qualified. Has gradate or undergraduate degree in subject area.,2,11,16
+Acton,Maryann,Salem,Alloway Twp,Alloway Township School,Elementary Kindergraten-8 Grade,1,67995,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Laurino,Kathryn R,Monmouth,Howell Twp,Aldrich Elementary School,Elementary School Teacher K-5,1,53675,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,3,3
+Garner,Chameeka,Camden,Camden City,Veterans Memorial Family School,Lang Arts/literacy Grades 5 - 8,1,64603,CE,General ed,Traditional,Highly qualified. National Board Certified.,13,13,13
+Huckleberry,Jennifer A,Burlington,Northern Burlington Reg,Northern Burlington County Regional High School,Theater,0.67,51278,CE,General ed,Alternate,Highly qualified. National Board Certified.,1,1,1
+Mcgrath,Gavin E,Monmouth,Asbury Park City,Thurgood Marshall Elementary School,Assistant Principal High School,1,135138,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,34,34,34
+Mason,Amanda,Cumberland,Cumberland Co Vocational,Cumberland County Technical Education Center,Science Biological,1,60335,Standard certificate,General ed,Alternate,Highly qualified. Has 30 credits in content area.,0,2,2
+Deich-barneetz,Dorothy,Camden,Black Horse Pike Regional,Timber Creek Regional High School,English Non-elementary,0.2,88026,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,19,19
+Diemma,Joni,Atlantic,Hammonton Town,Warren E. Sooy Jr. Elementary School,Elementary School Teacher K-5,1,53000,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,14,14,14
+Ahmed,Vanessa M,Hunterdon,Flemington-raritan Reg,Copper Hill Elementary School,Assistant Principal Elementary School,1,93449,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,13,13,13
+Fenton,Crista,Somerset,Bridgewater-raritan Reg,Milltown Primary School,Elementary School Teacher K-5,1,56513,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,12,12
+Narkiewicz,Kimberly,Burlington,Rancocas Valley Regional,Rancocas Valley Regional High School,Bookkeeping  Accounting,1,56567,Provisional,General ed,Traditional,Doesn't need to be highly qualified,2,2,2
+Wehrhahn,Maureen P,Morris,Washington Twp,Flocktown-kossmann Elementary School,Elementary School Teacher K-5,1,64125,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Hionas Curran,Jan,Somerset,Hillsborough Twp,Hillsborough Township Middle School,English As A 2nd Language,1,81665,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,13,28,28
+Katz,Julie A,Union,Union Twp,Connecticut Farms,Resource Program In-class,1,66548,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,6,6,6
+Baldwin,Deborah,Bergen,Fairview Boro,Number Three School,Elementary Kindergraten-8 Grade,1,63725,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,15,15,15
+Belluzzi,Brian V,Bergen,Northern Highlands Reg,Northern Highlands Regional High School,English Non-elementary,1,82370,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,11,11,11
+Castellanos,Andres,Passaic,Passaic City,Passaic High School # 12,School Psychologist,1,100134,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,4,7,7
+Brower,Jacqueline,Essex,Montclair Town,Mt Hebron Middle School,Science Grades 5  -8,1,62239,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Joseph,Stephen E,Burlington,Rancocas Valley Regional,Rancocas Valley Regional High School,High School Principal,1,97955,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,14,14,14
+Weber,Jacob F,Essex,Montclair Town,Montclair High School,Social Studies Non-elementary,1,96421,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,30,32,32
+Richards,Diane,Burlington,Pemberton Twp,Howard L. Emmons,Elementary Kindergraten-8 Grade,1,91598,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,23,26,26
+Du Brul,Renee,Mercer,Hamilton Twp,George E. Wilson Elementary School,Elementary Kindergraten-8 Grade,1,48160,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Silla,Dominick,Bergen,Elmwood Park,Sixteenth Avenue School,Elementary School Principal,1,132235,Provisional,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,11,19,20
+Rudd,Charmaine,Essex,Newark City,Camden Street Elementary School,School Social Worker,1,59670,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,11,12,12
+Wilson,Susan,Morris,Madison Boro,Madison High School,Math Non-elementary,1,86711,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,14,27,27
+Vintimilla,Gabriela,Morris,Sch Dist Of The Chathams,Chatham Middle School,Spanish Grades 5 - 8,1,61055,Provisional,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,3,4,4
+Carr,Anthony T,Charter,Phillip's Academy Charter School,Phillip's Academy Charter School,Teacher/ Behavior Specialist (se Only),1,54600,Standard certificate,General ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,1,1,1
+Laramee,Jamie,Camden,Bellmawr Boro,Bellmawr Park Elementary School,Elementary School Teacher K-5,1,66867,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Madsen,Debralee,Morris,Wharton Boro,Alfred C. Mackinnon Middle School,Resource Program Pull-out Support,1,75215,Standard certificate,Special ed,Traditional,Highly qualified\, House Matrix,12,18,18
+Mehring,Andrew,Somerset,Hillsborough Twp,Hillsborough High School,Social Studies Non-elementary,1,67605,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Newman,Karen,Monmouth,Rumson Boro,Deane-porter Elementary School,Elementary School Teacher K-5,1,76170,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,12,16,16
+Cardiello,Donna,Passaic,Wanaque Boro,Haskell Elementary School,Chief School  Administrator/district Superintendent,1,145000,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,4,31,37
+Decristofano,Mary,Monmouth,Sea Girt Boro,Sea Girt Elementary School,Elementary Kindergraten-8 Grade,1,75234,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,18,18,18
+Cullen,Minga,Hunterdon,Franklin Twp,Franklin Township School,Resource Program Pull-out Support,0.75,88640,Standard certificate,Special ed,Traditional,Highly qualified. Has gradate or undergraduate degree in subject area.,17,24,26
+Muska,James,Bergen,Hasbrouck Heights Boro,Hasbrouck Heights Middle School,Social Studies History,1,53985,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,7,7,7
+Reaves-marshina,Nicole,Cumberland,Cumberland Regional,Cumberland Regional High School,English Non-elementary,1,61967,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,9,9,9
+Falco,Anna Rita,Union,New Providence Boro,Allen W. Roberts School,Assistant Principal Elementary School,1,97470,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,3,17,17
+Shore,Neil,Burlington,Lumberton Twp,Bobby's Run Elementary School,Computer Literacy/applications/programming,0.2,80421,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,24,24,24
+Miliano,Tara,Middlesex,North Brunswick Twp,North Brunswick Township High School,English Non-elementary,1,55333,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Peterson,Joni,Gloucester,Monroe Twp,Oak Knoll Elementary School,Elementary Kindergraten-8 Grade,1,71950,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,20,20,20
+Erisnor,Claude Danielle,Passaic,Paterson City,School 21,Non-supervisory Coordinator Teacher Student Discipline And Activity Advisor,1,99512,Standard certificate,Admin or supervisor,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Gunther,Jennifer M,Passaic,Passaic County Vocational,Passaic County Technical Institute,Math Non-elementary,1,78190,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,8,8,8
+Smyth,Dori L,Morris,Mendham Twp,Mendham Township Elementary School,Elementary School Teacher K-5,1,74770,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,10,13,13
+Meile,Bridget,Burlington,Evesham Twp,Frances Demasi Middle School,Elementary Kindergraten-8 Grade,1,56096,Standard certificate,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,8,8,8
+Habedank,Jason G,Passaic,Clifton City,School #14,Elementary School Principal,1,115174,Standard certificate,Admin or supervisor,Alternate,Highly qualified. Has gradate or undergraduate degree in subject area.,13,17,17
+Cohen,Christina,Bergen,Mahwah Twp,Ramapo Ridge,Health & Physical Education,1,48265,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,1,5,5
+Pryblick,Kevin M,Hudson,Kearny Town,Kearny High School,Supervisor Business,0.8,119615,Standard certificate,Admin or supervisor,Traditional,Doesn't need to be highly qualified,14,16,16
+Zeleniak,Kerri,Cumberland,Commercial Twp,Haleyville-mauricetown Elementary School,Elementary Kindergraten-8 Grade,1,72257,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,17,17,17
+Lasorda-sivieri,Helen,Burlington,Northern Burlington Reg,Northern Burlington County Regional High School,School Social Worker,1,72816,Standard certificate,Special ed,Traditional,Doesn't need to be highly qualified,39,39,39
+Sirkin,Kevin W,Union,Summit City,Summit High School,Resource Program Pull-out Support,1,60141,CEAS,Special ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Piotrowicz,Klaudia,Middlesex,Perth Amboy City,Edward J. Patten Elementary School,Elementary School Teacher K-5,1,49700,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,2,2,2
+Dagney,Christine N,Cape May,West Cape May Boro,West Cape May Elementary School,Preschool,0.42,30191,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,1,1,1
+Lessard,Robert F,Essex,Belleville Town,Belleville Ps7,Elementary Kindergraten-8 Grade,1,94063,Standard certificate,General ed,Traditional,Highly qualified. Has 30 credits in content area.,15,15,15
+Reid,Laura,Passaic,Passaic City,Martin Luther King Jr. School # 6,Preschool,1,99670,Standard certificate,General ed,Traditional,Doesn't need to be highly qualified,13,13,13
+Latimer,Charles,Ocean,Jackson Twp,Jackson Memorial High School,Science Military,1,84702,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,18,18,18
+Kornicki,Susan M,Gloucester,Glassboro,Thomas E. Bowe School,Elementary Kindergraten-8 Grade,0.45,91523,Standard certificate,General ed,Traditional,Highly qualified. National Board Certified.,26,26,26
+Woyshner,Michelle A,Burlington,Delran Twp,Delran Intermediate School,Elementary Kindergraten-8 Grade,1,81149,Standard certificate,General ed,Traditional,Highly qualified. Passed the Praxis/NTE,19,19,19
